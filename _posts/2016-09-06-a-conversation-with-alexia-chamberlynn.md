@@ -16,7 +16,13 @@ As part of our author profile series, we had a chance to catch up with Alexia Ch
 
 Alexia is a self-published author and also has some good recommendations for authors thinking about self-publishing, or already doing so. She was kind enough to answer a few questions about her novels and self-publishing more broadly!
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Martinis-with-the-Devil-Part-One-%28Zyan-Star-Book-1%29--by--A.A.-Chamberlynn--217699" %}
+{% include card.html
+   title="Martinis with the Devil"
+   description="When offered a job on the Holy Representative’s special security team, bounty hunter Zyan Star couldn’t be less interested – until she finds out it’s her most hated of exes that they’re trying to track down. He broke her heart and dumped her, which in turn led to the loss of her soul at the hands of an immortal soul thief. Now she too exists on a diet of souls, with the occasional martini thrown in for good measure, and she’s had over two hundred years to fantasize about revenge. She just didn’t quite imagine it playing out alongside the emissaries of Heaven.Working with Eli, the uptight angel that heads up the HR’s security, is just about as much fun as Zy expects. He of course wants her vampire ex brought to justice through legal avenues, which is very inconvenient and incredibly boring. As she dives into the case, however, she realizes there’s more at stake than her plot for payback. Like, the free will of mankind, and preventing the minions of hell from taking over the sovereign dimensions. This job is going to push her to the limits of her abilities, and there’s just a slight problem with that: the powers she’s suppressed for centuries after losing control of them are exactly the powers she’s going to need to save the HR, end her millennia-old ex and stop Lucifer’s little plot to join the party and invade Earth. Savior of humanity? Not so much. Or so she thought."
+   link="https://www.thehawaiiproject.com/book/Martinis-with-the-Devil-Part-One-%28Zyan-Star-Book-1%29--by--A.A.-Chamberlynn--217699"
+   image="https://images-na.ssl-images-amazon.com/images/I/51nU4p82omL.jpg"
+%}
+
 
 * * *
 

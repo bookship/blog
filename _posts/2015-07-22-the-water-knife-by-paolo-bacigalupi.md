@@ -13,7 +13,7 @@ coverImage: "60cb0-1h_1j6uebg3nk82172wwlhq.jpeg"
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/60cb0-1h_1j6uebg3nk82172wwlhq.jpeg)
 
-[The Water Knife](http://www.thehawaiiproject.com/book/The-Water-Knife--by--Paolo-Bacigalupi--46654) is an extremely interesting near-future, post-apocalyptic take on the water problems faced by the American Southwest.
+[The Water Knife](https://www.thehawaiiproject.com/book/The-Water-Knife--by--Paolo-Bacigalupi--46654) is an extremely interesting near-future, post-apocalyptic take on the water problems faced by the American Southwest.
 
 Angel Velasquez is a Water Knife — a vicious and not-quite-amoral enforcer who helps Catherine Case control the water rights and water supply from the Colorado river, on which everyone downriver depends. Lucy Monroe is a Pulitzer-nominated investigative journalist poking all the wrong people in Phoenix and California. Maria is a desperately poor migrant who’s made her way to Phoenix. When Angel is sent from Vegas to Phoenix to get his hands on some water rights, their paths collide in a brutal and violent exploration of what people will do to each other because of poverty, desperation, extreme conditions or just plain evil.
 
@@ -25,4 +25,4 @@ The Water Knife is a great read, no matter your point of view about climate chan
 
 Bacigalupi’s characters occasionally veer a little too close to stereotypes (the bad guy redeemed by a woman, the muckraking journalist), but those are minor quibbles. Great read, and thought provoking.
 
-If you’re wondering [what to read next](http://www.thehawaiiproject.com/what-should-I-read-next-after--The-Water-Knife--46654) after The Water Knife, head over to [this page](http://www.thehawaiiproject.com/what-should-I-read-next-after%E2%80%93The-Water-Knife%E2%80%9346654). And in the non-fiction category, consider [Cadillac Desert](http://www.thehawaiiproject.com/book/Cadillac-Desert-The-American-West-and-Its-Disappearing-Water--by--Marc-Reisner--39168), a history of water in the southwest which features prominently in The Water Knife.
+If you’re wondering [what to read next](http://www.thehawaiiproject.com/what-should-I-read-next-after--The-Water-Knife--46654) after The Water Knife, head over to [this page](http://www.thehawaiiproject.com/what-should-I-read-next-after%E2%80%93The-Water-Knife%E2%80%9346654). And in the non-fiction category, consider [Cadillac Desert](https://www.thehawaiiproject.com/book/Cadillac-Desert-The-American-West-and-Its-Disappearing-Water--by--Marc-Reisner--39168), a history of water in the southwest which features prominently in The Water Knife.

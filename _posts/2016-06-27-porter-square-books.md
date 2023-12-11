@@ -18,13 +18,13 @@ Cafe Zing @ Porter Square Books
 
 So, Wednesday I found myself over in Porter Square for a “[Techs in Libraries](http://www.meetup.com/Boston-LibTech-Meetup/)” meet up — geeks who work on libraries. I found myself there 20 minutes early — just enough time for some coffee. Happily, there was a bookstore in across the street, [Porter Square Books](http://www.portersquarebooks.com/). If you are sensing a pattern — where I go somewhere random, then find a bookstore and blog about it — you’re onto me. One of my favorite things is “accidentally” finding myself near a bookstore.
 
-Porter Square Books is nestled into a small shopping center in, well, Porter Square. I’d visited the store and chatted with Josh Cook when I was launching The Hawaii Project. Josh is an author ([An Exaggerated Murder](http://www.thehawaiiproject.com/book/An-Exaggerated-Murder-A-Novel--by--Josh-Cook--95871)), as well as a bookseller of Porter Square Books.
+Porter Square Books is nestled into a small shopping center in, well, Porter Square. I’d visited the store and chatted with Josh Cook when I was launching The Hawaii Project. Josh is an author ([An Exaggerated Murder](https://www.thehawaiiproject.com/book/An-Exaggerated-Murder-A-Novel--by--Josh-Cook--95871)), as well as a bookseller of Porter Square Books.
 
 When you first walk in, on the left you notice Cafe Zing, with a chalkboard menu with all kinds of good stuff on it — from baked goods to all manner of coffee and teas, and sandwiches.
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/8860d-1lvaafva_7pixps0blmchga.jpeg)
 
-The obligatory recommendations table is there, but it’s different! Some lovely tasty cover art ([Outrun the Moon](http://www.thehawaiiproject.com/book/Outrun-the-Moon--by--Stacey-Lee--178051)) — but you’ll also note they don’t just recommend new books, they recommend good books — note [The Song of Achilles](http://www.thehawaiiproject.com/book/Song-of-Achilles--by--Madeline-Miller--38865) prominently featured, even though it was released in 2011 (reviewers said for example, “Mary Renault lives again”, which is the highest of praise in my book). It’s not a chain pushing the bestsellers on you.
+The obligatory recommendations table is there, but it’s different! Some lovely tasty cover art ([Outrun the Moon](https://www.thehawaiiproject.com/book/Outrun-the-Moon--by--Stacey-Lee--178051)) — but you’ll also note they don’t just recommend new books, they recommend good books — note [The Song of Achilles](https://www.thehawaiiproject.com/book/Song-of-Achilles--by--Madeline-Miller--38865) prominently featured, even though it was released in 2011 (reviewers said for example, “Mary Renault lives again”, which is the highest of praise in my book). It’s not a chain pushing the bestsellers on you.
 
 There’s a great collection of recommendations up front, and as you go further into the store you find a number of interesting displays. The Sci-Fi section is right up against the front glass, not hidden in the back like it’s porn the way it is in most bookstores. Next thing I encounter is the Indie Next bestseller list — not totally unique to an indie bookstore, but still, a compact presentation of a lot of great books.
 
@@ -32,7 +32,7 @@ There’s a great collection of recommendations up front, and as you go further 
 
 Don’t judge by the cover
 
-Across the aisle from that, something a bit more unique — the “don’t judge a book by it’s cover” display. The books’ covers are hidden and only the first line is shown. The top left book’s first line — “They never found his hands”. Now there’s an opening line— and I recognize it! It’s from [The Forgers](http://www.thehawaiiproject.com/book/The-Forgers--by--Bradford-Morrow--6569), which I read a few years ago, and that’s a line that sticks with you.
+Across the aisle from that, something a bit more unique — the “don’t judge a book by it’s cover” display. The books’ covers are hidden and only the first line is shown. The top left book’s first line — “They never found his hands”. Now there’s an opening line— and I recognize it! It’s from [The Forgers](https://www.thehawaiiproject.com/book/The-Forgers--by--Bradford-Morrow--6569), which I read a few years ago, and that’s a line that sticks with you.
 
 When I was last here, one of the things Josh mentioned to me was that Porter Square Books really focuses on giving great recommendations to folks who come in, based on their reading habits. They’re on the red line in Boston, easy to get to. Give ’em a go.
 

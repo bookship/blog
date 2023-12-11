@@ -17,7 +17,7 @@ Havana at night
 
 Arkady Renko might be my most favorite fictional detective. Equal parts morose, guilt-ridden persistence and quietly brilliant intuition, his disinterested “<bleep> you” attitude towards anyone in his way always seems to land him in trouble — with his superiors, his enemies, and often his lovers. Martin Cruz Smith’s prose has a convincing way of communicating Arkady’s intuition, in a way that you are convinced Arkady is smarter than you are.
 
-Arkady made his first appearance in [Gorky Park](http://www.thehawaiiproject.com/book/Gorky-Park-%28Arkady-Renko-No.-1%29--by--Martin-Cruz-Smith--40596), first the book and then the movie. During a recent trip to Pinehurst, NC, I recently discovered that I had missed one of the earlier books in the series, [Havana Bay](http://www.thehawaiiproject.com/book/Havana-Bay-A-Novel-%28William-Monk%29--by--Martin-Cruz-Smith--97959), and scooped it up from [Given Books](https://www.facebook.com/Given-Book-Shop-114431848588486/).
+Arkady made his first appearance in [Gorky Park](https://www.thehawaiiproject.com/book/Gorky-Park-%28Arkady-Renko-No.-1%29--by--Martin-Cruz-Smith--40596), first the book and then the movie. During a recent trip to Pinehurst, NC, I recently discovered that I had missed one of the earlier books in the series, [Havana Bay](https://www.thehawaiiproject.com/book/Havana-Bay-A-Novel-%28William-Monk%29--by--Martin-Cruz-Smith--97959), and scooped it up from [Given Books](https://www.facebook.com/Given-Book-Shop-114431848588486/).
 
 {% include card.html
    title="Havana Bay"

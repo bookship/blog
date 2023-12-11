@@ -9,7 +9,7 @@ tags:
   - "startup"
 ---
 
-So, I’m reading [Distrust That Particular Flavor](http://www.thehawaiiproject.com/book/Distrust-That-Particular-Flavor--by--William-Gibson--63193) by William Gibson. In case you’ve been hiding under a rock for the last 20 years, Gibson is novelist who famously spawned the Cyberpunk movement and coined the term “cyberspace” in [Neuromancer](http://www.thehawaiiproject.com/book/Neuromancer--by--William-Gibson--63196), 30 years ago. And gone on to write many thoughtful, wonderful books. While he’s inspired a generation of technologists, he doesn’t write much about startups. But Distrust That Particular Flavor (his only non-fiction book) has some interesting insights on the startup process (it’s packed with non-startupy insights as well!).
+So, I’m reading [Distrust That Particular Flavor](https://www.thehawaiiproject.com/book/Distrust-That-Particular-Flavor--by--William-Gibson--63193) by William Gibson. In case you’ve been hiding under a rock for the last 20 years, Gibson is novelist who famously spawned the Cyberpunk movement and coined the term “cyberspace” in [Neuromancer](https://www.thehawaiiproject.com/book/Neuromancer--by--William-Gibson--63196), 30 years ago. And gone on to write many thoughtful, wonderful books. While he’s inspired a generation of technologists, he doesn’t write much about startups. But Distrust That Particular Flavor (his only non-fiction book) has some interesting insights on the startup process (it’s packed with non-startupy insights as well!).
 
 {% include card.html
    title="Distrust That Particular Flavor"

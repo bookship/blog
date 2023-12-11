@@ -29,7 +29,13 @@ Once a week you’ll get a reminder to update your status — that way you r
 
 Right now, an old friend and I are reading [The Three Musketeers](https://www.thehawaiiproject.com/book/The-Three-Musketeers--by--Alexandre-Dumas--1688#tab5) together. He’s read it before — enjoying reading it again — and I get the benefit of his perspective. My son and I are reading [Dune](https://www.thehawaiiproject.com/book/Dune--by--Frank-Herbert--19256) together. It’s one of the masterpieces of Science Fiction I’ve read a number of times, and I hope I have some thoughts to share with my son as he reads it for the first time. In each case, I’m physically separated from those folks, so it’s not a book club in the traditional sense. Just the sharing of a reading experience.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/The-Three-Musketeers--by--Alexandre-Dumas--1688#tab5" %}
+{% include card.html
+   title="The Three Musketeers"
+   description="The classic adventure from the author of The Count of Monte Cristo and The Man in the Iron Mask. In this swashbuckling epic, d’Artagnan, not yet twenty, sets off for Paris in hopes of joining the Musketeers, that legion of heroes highly favored by King Louis XIII and feared by evil Cardinal Richelieu. By fighting alongside Athos, Porthos, and Aramis as they battle their enemies, d’Artagnan proves he has the heart of a Musketeer and earns himself a place in their ranks. Soon d’Artagnan and the gallant trio must use all their wits and sword skills to preserve the queen’s honor and thwart the wicked schemes of Cardinal Richelieu. With this classic tale, Dumas embroiders upon history a colorful world of swordplay, intrigue, and romance, earning The Three Musketeers its reputation as one of the most thrilling adventure novels ever written. An Unabridged Translation, Revised and Updated by Eleanor Hochman With an Introduction by Thomas Flanagan and an Afterword by Marcelle Clements"
+   link="https://www.thehawaiiproject.com/book/The-Three-Musketeers--by--Alexandre-Dumas--1688#tab5"
+   image="https://standardebooks.org/ebooks/alexandre-dumas/the-three-musketeers/william-robson/downloads/cover-thumbnail.jpg"
+%}
+
 
 To get started, just find the book you want to read in [The Hawaii Project](https://www.thehawaiiproject.com). Hit the button called **Group Readings**, hit the **Invite** button, enter in the emails of your co-readers, and off you go. Everyone participating will need an account on The Hawaii Project. They can sign up at the home page.
 

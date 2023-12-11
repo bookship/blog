@@ -119,4 +119,11 @@ Libraries are rapidly changing in America. I’m watching what’s happening in 
 
 You can find Ryan’s books on The Hawaii Project:
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Ghosts-of-the-Desert--by--Ryan-Ireland--229700" %} {% include card.html link="http://www.thehawaiiproject.com/book/Ghosts-of-the-Desert--by--Ryan-Ireland--229700" %}
+{% include card.html
+   title="Ghosts of the Desert"
+   description="Ryan Ireland’s GHOSTS OF THE DESERT is an intensely compelling read full of muscular prose and characters who are, at once, cinematically vivid and entirely, scarily authentic. This book richly deserves and surely will find a wide, enthusiastic audience.” Robert Olen Butler, Pulitzer Prize-Winning author To escape his troubled past, Norman heads to the Utah desert to lose himself in work. Having just received a research grant he plans to study the ghost towns and now-obsolete mines littering the inhospitable landscape. But when he comes across a desert-dwelling group of outcasts, and is taken captive by their charismatic yet ever-watchful leader, he is introduced to an alternate way of life that both repulses and attracts him. As Norman struggles to find his place and make sense of this strange new world  with its perverse and unorthodox practices  he must decide whether to take his chances and run, or yield, and risk becoming one of those around him.Ireland’s refined and sparse prose cut through to the dark heart of the American dream in this chilling novel about the complex relationship between the primitive and the civilized, the living and the dead."
+   link="https://www.thehawaiiproject.com/book/Ghosts-of-the-Desert--by--Ryan-Ireland--229700"
+   image="https://images-na.ssl-images-amazon.com/images/I/51FNfmezDzL.jpg"
+%}
+
+

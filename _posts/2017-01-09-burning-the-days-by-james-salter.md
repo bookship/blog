@@ -20,7 +20,13 @@ Some time ago I was wandering through a used bookstore in Manchester by the Sea 
 
 > “I cannot think of it without sadness. I think of the day-long, intimate hours in her apartment with the same record playing over and over, phrases from it like some sort of oath I will know til the day I die.”
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Burning-the-Days--by--James-Salter--78738" %}
+{% include card.html
+   title="Burning the Days"
+   description="In this brilliant book of recollection, one of America’s finest writers re-creates people, places, and events spanning some fifty years, bringing to life an entire era through one man’s sensibility. Scenes of love and desire, friendship, ambition, life in foreign cities and New York, are unforgettably rendered here in the unique style for which James Salter is widely admired.Burning the Days captures a singular life, beginning with a Manhattan boyhood and then, satisfying his father’s wishes, graduation from West Point, followed by service in the Air Force as a pilot. In some of the most evocative pages ever written about flying, Salter describes the exhilaration and terror of combat as a fighter pilot in the Korean War, scenes that are balanced by haunting pages of love and a young man’s passion for women.After resigning from the Air Force, Salter begins a second life, becoming a writer in the New York of the 1960s. Soon films beckon. There are vivid portraits of actors, directors, and producers—Polanski, Robert Redford, and others. Here also, more important, are writers who were influential, some by their character, like Irwin Shaw, others because of their taste and knowledge.Ultimately Burning the Days is an illumination of what it is to be a man, and what it means to become a writer.Only once in a long while—Vladimir Nabokov’s Speak, Memory or Isak Dinesen’s Out of Africa—does a memoir of such extraordinary clarity and power appear. Unconventional in form, Burning the Days is a stunning achievement by the writer The Washington Post Book World said “inhabits the same rarefied heights as Flannery O’Connor, Paul Bowles, Tennessee Williams and John Cheever”—a rare and unforgettable book."
+   link="https://www.thehawaiiproject.com/book/Burning-the-Days--by--James-Salter--78738"
+   image="https://images-na.ssl-images-amazon.com/images/I/5190TBY5K7L.jpg"
+%}
+
 
 OK it’s two sentences. Salter is an amazing writer, and behind that lies a fascinating, complex, insightful man. **Burning the Days** tells the story of his life, from the early days of learning about sex through to his early 70’s. The transience of all things is lurking on every page, but the book rings out with its joys as well.
 
@@ -62,7 +68,13 @@ To the anonymous poet mentioned above: yes, Books Change Lives. If they are good
 
 The first phase of Salter’s life is military, eventually becoming a pilot, and **Burning the Days** chronicles that life in ways that are by turns comical, heartwarming, and searing. This phase of his life leads to his first novel **The Hunters**, and flying the Korean War, and his true tales from that time open a window into the military experience few books can match.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Burning-the-Days--by--James-Salter--78738" %}
+{% include card.html
+   title="The Hunters"
+   description="Captain Cleve Connell has already made a name for himself among pilots when he arrives in Korea during the war there to fly the newly operational F-86 fighters against the Soviet MIGs. His goal, like that of every fighter pilot, is to chalk up enough kills to become an ace.But things do not turn out as expected. Mission after mission proves fruitless, and Connell finds his ability and his stomach for combat questioned by his fellow airmen: the brash wing commander, Imil; Captain Robey, an ace whose record is suspect; and finally, Lieutenant Pell, a cocky young pilot with an uncanny amount of skill and luck.Disappointment and fear gradually erode Connell’s faith in himself, and his dream of making ace seems to slip out of reach. Then suddenly, one dramatic mission above the Yalu River reveals the depth of his courage and honor.Originally published in 1956, The Hunters was James Salter’s first novel. Based on his own experiences as a fighter pilot in the Korean War, it is a classic of wartime fiction. Now revised by the author and back in print on the sixty-fifth anniversary of the Air Force, the story of Cleve Connell’s war flies straight into the heart of men’s rivalries and fears."
+   link="https://www.thehawaiiproject.com/book/The-Hunters--by--James-Salter--26126"
+   image="https://images-na.ssl-images-amazon.com/images/I/418-nYKhC%2BL.jpg"
+%}
+
 
 The success of **The Hunters** eventually drives him to leave the Army and write full time. He discovers Paris. This leads him to write **A Sport and A Pastime**, an erotic chronicle of Paris, with an unreliable narrator. He goes into movies, writing screenplays for a number of films, most of them unsuccessful (I’ve recently become aware of how many writers of that era put food on the table by writing screenplays — Steven Pressfield is another). His stories of the movies, the stars, and set locations are thought provoking as well as interesting.
 

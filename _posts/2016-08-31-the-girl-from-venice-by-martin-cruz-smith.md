@@ -15,7 +15,13 @@ coverImage: "2291e-1fjcfhudw0occnbpptenoqa.jpeg"
 
 From it’s evocative cover to its low key, upbeat ending, The Girl From Venice is an enjoyable, surprisingly romantic outing from Martin Cruz Smith.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/The-Girl-from-Venice--by--Martin-Cruz-Smith--231170" %}
+{% include card.html
+   title="The Girl from Venice"
+   description="From Martin Cruz Smith, “a master of the international thriller” (The New York Times), a suspenseful World War II love story set against the beauty, mystery, and danger of occupied Venice. Venice, 1945. The war may be waning, but the city known as La Serenissima is still occupied and the people of Italy fear the power of the Third Reich. One night, under a canopy of stars, a fisherman named Cenzo comes across a young woman’s body floating in the lagoon and soon discovers that she is still alive and in trouble. Born to a wealthy Jewish family, Giulia is on the run from the Wehrmacht. Cenzo chooses to protect Giulia rather than hand her over to the Nazis. This act of kindness leads them into the world of Partisans, random executions, the arts of forgery and high explosives, Mussolini’s broken promises, the black market and gold, and, everywhere, the enigmatic maze of the Venice Lagoon. With Martin Cruz Smith’s trademark suspense, action, and breathtaking romance during World War II Italy, The Girl from Venice is “a gripping evocation of a beautiful nation and of two people, trapped in the lunacy of war and the bravery it can inspire” (The Seattle Times)."
+   link="https://www.thehawaiiproject.com/book/The-Girl-from-Venice--by--Martin-Cruz-Smith--231170"
+   image="https://images-na.ssl-images-amazon.com/images/I/51QLAKMiOqL.jpg"
+%}
+
 
 Martin Cruz Smith has a history of writing highly intelligent characters into interesting, atmospheric locations that reek of history. Most famously, Arkady Renko is the brilliant, morose Russian detective, whose travails chronicle the last 40 years in Russia. Cruz Smith has a talent for rendering characters who are smarter than we are, and making us believe it.
 

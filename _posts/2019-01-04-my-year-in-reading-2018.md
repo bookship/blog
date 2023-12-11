@@ -19,7 +19,13 @@ Some books stand the test of time, and I return to them again and again for vari
 
 I read a great deal this year socially. Obviously, with my focus on [Bookship](https://www.bookshipapp.com), my social reading app, this is not a surprise. Two high points: I read [The Iliad](https://www.thehawaiiproject.com/book/The-Iliad--by--Homer--23363) for the first time, along with friends & family. It took us the better part of six months to get through it. What you earn, you value, and I value The Iliad a lot. :). The thing that surprised me the most about it is how bloody it is. The descriptions of the battles and injuries is a bit horrific.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/The-Hunters--by--James-Salter--26126" %}
+{% include card.html
+   title="The Hunters"
+   description="Captain Cleve Connell has already made a name for himself among pilots when he arrives in Korea during the war there to fly the newly operational F-86 fighters against the Soviet MIGs. His goal, like that of every fighter pilot, is to chalk up enough kills to become an ace.But things do not turn out as expected. Mission after mission proves fruitless, and Connell finds his ability and his stomach for combat questioned by his fellow airmen: the brash wing commander, Imil; Captain Robey, an ace whose record is suspect; and finally, Lieutenant Pell, a cocky young pilot with an uncanny amount of skill and luck.Disappointment and fear gradually erode Connell’s faith in himself, and his dream of making ace seems to slip out of reach. Then suddenly, one dramatic mission above the Yalu River reveals the depth of his courage and honor.Originally published in 1956, The Hunters was James Salter’s first novel. Based on his own experiences as a fighter pilot in the Korean War, it is a classic of wartime fiction. Now revised by the author and back in print on the sixty-fifth anniversary of the Air Force, the story of Cleve Connell’s war flies straight into the heart of men’s rivalries and fears."
+   link="https://www.thehawaiiproject.com/book/The-Hunters--by--James-Salter--26126"
+   image="https://images-na.ssl-images-amazon.com/images/I/418-nYKhC%2BL.jpg"
+%}
+
 
 Together with my great friend Thomas, I read [The Hunters](https://www.thehawaiiproject.com/book/The-Hunters--by--James-Salter--26126), by James Salter. Salter is the best writer you never heard of, one of the true masters of the modern novel. This is his debut novel about fighter pilots in Korea during the Korean War, of which he was one. While the aviation and battle scenes are vividly rendered, that’s not what the book is about. This is about (young) men in competition, within their teams and with the enemy. The social dynamics of this kind of person are so well captured. The competition, the politics, the loves & hates, the self-doubt. The writing is everywhere very vivid and evocative.
 

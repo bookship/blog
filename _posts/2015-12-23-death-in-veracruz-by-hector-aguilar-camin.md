@@ -10,7 +10,7 @@ tags:
   - "recommendation"
 ---
 
-As part of my continuing test of [Scribd](http://www.scribd.com)’s subscription ebooks service, I stumbled on Héctor Aguilar Camín’s [Death in Veracruz](http://www.thehawaiiproject.com/book/Death-in-Veracruz-A-Novel--by--Hector-Aguilar-Camin--172094). Set in the ‘60s and ‘70s during the ascent of Mexico’s oil industry, A Death in Veracruz is a classic of Latin literature, only recently translated ably into English by Chandler Thompson.
+As part of my continuing test of [Scribd](http://www.scribd.com)’s subscription ebooks service, I stumbled on Héctor Aguilar Camín’s [Death in Veracruz](https://www.thehawaiiproject.com/book/Death-in-Veracruz-A-Novel--by--Hector-Aguilar-Camin--172094). Set in the ‘60s and ‘70s during the ascent of Mexico’s oil industry, A Death in Veracruz is a classic of Latin literature, only recently translated ably into English by Chandler Thompson.
 
 {% include card.html
    title="Death in Veracruz"

@@ -17,7 +17,13 @@ I wanted to like it. Great title, intriguing cover art, interesting premise.
 
 A retelling of the Tristan and Isolde legend, wherein star-crossed lovers Tristan and Isolde die after a forbidden romance. But set in in a 1970s, disco-laden, noir world. In the legend, Tristan is waiting for Isolde’s return by ship and is expecting white sails if she is returning, black sails if not. He dies of grief after his wife tells him it is black sails, and Isolde soon follows him.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Black-Sails-Disco-Inferno--by--Andrez-Bergen--232289" %}
+{% include card.html
+   title="Black Sails, Disco Inferno"
+   description="An unnamed city, in which crime families flourish and the police pinch pennies from those with most power... Black Sails, Disco Inferno is a retelling of the classic medieval romance of Tristan and Isolde, turning things on their head by reversing the sex of the chief protagonists and placing them in a ’70’s pulp/noir world. Andrez Bergen’s latest novel exposes layers of the bullet-riddled pulp/noir world of Trista and Issy amidst a sensual, disco-infused narrative overflowing with shady schemes, double dealings, cruel brutality and spellbinding mystery."
+   link="https://www.thehawaiiproject.com/book/Black-Sails-Disco-Inferno--by--Andrez-Bergen--232289"
+   image="https://images-na.ssl-images-amazon.com/images/I/51nkhw-VvBL.jpg"
+%}
+
 
 Author Bergen pulls a gender swap. Trista is a young woman working in a crime family, mentored by the older Governal. Governal is her mentor and their relationship is wonderfully done. Issy is a young man, working in the “other” crime family. Events throw them together and you have Tristan and Isolde with a little Romeo and Juliet thrown in.
 

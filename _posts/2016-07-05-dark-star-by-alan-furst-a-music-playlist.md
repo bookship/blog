@@ -21,7 +21,7 @@ So, we built a soundtrack to go with the book. It’s filled with pre-war classi
 
 https://open.spotify.com/user/thehawaiiproject/playlist/5ZzHDp6AIt1meqYoMCjOaP
 
-You can read more about the book on The Hawaii Project, and see the playlist, and add your own, here: [Dark Star](http://www.thehawaiiproject.com/book/Dark-Star-A-Novel--by--Alan-Furst--80720).
+You can read more about the book on The Hawaii Project, and see the playlist, and add your own, here: [Dark Star](https://www.thehawaiiproject.com/book/Dark-Star-A-Novel--by--Alan-Furst--80720).
 
 {% include card.html
    title="Dark Star"

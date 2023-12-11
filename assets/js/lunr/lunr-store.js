@@ -84,7 +84,7 @@ var store = [{
         "teaser": null
       },{
         "title": "And, in Viking news…",
-        "excerpt":"Did you know that Bernard Cornwell’s wonderful Saxon Tales have been made into a series by the BBC? The first season is based on The Last Kingdom, and premiered Saturday night. http://www.thehawaiiproject.com/book/The-Last-Kingdom-(The-Saxon-Chronicles-Series-1)–by–Bernard-Cornwell–5692 The first episode is awesome. There’s a touch of humor as a wordy priest nearly drowns Uthred while...","categories": ["books"],
+        "excerpt":"Did you know that Bernard Cornwell’s wonderful Saxon Tales have been made into a series by the BBC? The first season is based on The Last Kingdom, and premiered Saturday night. https://www.thehawaiiproject.com/book/The-Last-Kingdom-(The-Saxon-Chronicles-Series-1)–by–Bernard-Cornwell–5692 The first episode is awesome. There’s a touch of humor as a wordy priest nearly drowns Uthred while...","categories": ["books"],
         "tags": ["books","vikings"],
         "url": "/2015/10/12/and-in-viking-news/",
         "teaser": null
@@ -108,7 +108,7 @@ var store = [{
         "teaser": null
       },{
         "title": "SPECTRE, Bond and SOLO",
-        "excerpt":"So, I recently finished Any Human Heart by William Boyd, and really loved it. With SPECTRE coming up (haven’t been yet but can’t wait!), I wanted to get in the mood and read some Bond books. http://www.thehawaiiproject.com/book/Any-Human-Heart–by–William-Boyd–63024 I could have gone for Ian Fleming of course — that would be traditional. Thunderball...","categories": ["books"],
+        "excerpt":"So, I recently finished Any Human Heart by William Boyd, and really loved it. With SPECTRE coming up (haven’t been yet but can’t wait!), I wanted to get in the mood and read some Bond books. https://www.thehawaiiproject.com/book/Any-Human-Heart–by–William-Boyd–63024 I could have gone for Ian Fleming of course — that would be traditional. Thunderball...","categories": ["books"],
         "tags": ["books","james-bond","movies"],
         "url": "/2015/11/07/spectre-bond-and-solo/",
         "teaser": null
@@ -138,7 +138,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Spies of the Balkans, by Alan Furst",
-        "excerpt":"Alan Furst is the master of the historical spy novel, particularly the era just before World War II erupts. In Spies of the Balkans, he takes on, well, the Balkans. http://www.thehawaiiproject.com/book/spies-of-the-Balkans–by–Alan-Furst–103625 Costa Zannis is a Greek policeman, with his finger on the pulse of the underground in the port city...","categories": ["books"],
+        "excerpt":"Alan Furst is the master of the historical spy novel, particularly the era just before World War II erupts. In Spies of the Balkans, he takes on, well, the Balkans. https://www.thehawaiiproject.com/book/spies-of-the-Balkans–by–Alan-Furst–103625 Costa Zannis is a Greek policeman, with his finger on the pulse of the underground in the port city...","categories": ["books"],
         "tags": ["books","espionage","world-war-ii"],
         "url": "/2015/12/29/spies-of-the-balkans-by-alan-furst/",
         "teaser": null
@@ -210,7 +210,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Our Man in Havana",
-        "excerpt":"After finishing Adam Sisman’s gripping biography of John Le Carre, as a seasoned reader of espionage fiction I realized I had a big gap — I’d not read Graham Greene. I decided to start with “Our Man in Havana”, a light-hearted (or mostly so) caper set in Cuba. http://www.thehawaiiproject.com/book/Our-Man-in-Havana-%28Penguin-Classics%29–by–Graham-Greene–21399 Greene’s Cuba is...","categories": ["books"],
+        "excerpt":"After finishing Adam Sisman’s gripping biography of John Le Carre, as a seasoned reader of espionage fiction I realized I had a big gap — I’d not read Graham Greene. I decided to start with “Our Man in Havana”, a light-hearted (or mostly so) caper set in Cuba. https://www.thehawaiiproject.com/book/Our-Man-in-Havana-%28Penguin-Classics%29–by–Graham-Greene–21399 Greene’s Cuba is...","categories": ["books"],
         "tags": ["book-review","cuba","espionage"],
         "url": "/2016/03/24/our-man-in-havana/",
         "teaser": null
@@ -336,7 +336,7 @@ var store = [{
         "teaser": null
       },{
         "title": "A conversation with Stuart Holmes Coleman, part II",
-        "excerpt":"(this is a continuation of our conversation with Stuart Holmes Coleman, author of Eddie Aikau: Hawaiian Hero, Fierce Heart, and Eddie Would Go. You can find part I here.) http://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero–by–Stuart-Holmes-Coleman–207254 You’re a passionate surfer. Which came first, your love of surfing or your desire to write this book? Would it...","categories": ["books"],
+        "excerpt":"(this is a continuation of our conversation with Stuart Holmes Coleman, author of Eddie Aikau: Hawaiian Hero, Fierce Heart, and Eddie Would Go. You can find part I here.) https://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero–by–Stuart-Holmes-Coleman–207254 You’re a passionate surfer. Which came first, your love of surfing or your desire to write this book? Would it...","categories": ["books"],
         "tags": ["books","hawaii","surfing"],
         "url": "/2016/07/15/a-conversation-with-stuart-holmes-coleman-part-ii/",
         "teaser": null
@@ -348,7 +348,7 @@ var store = [{
         "teaser": null
       },{
         "title": "A conversation with Martin Cate, co-author of Smuggler’s Cove: Exotic Cocktails, Rum, and the Cult…",
-        "excerpt":"Here at The Hawaii Project, you know we love great books. And you know we love great cocktails. And you can guess we’re into the Hawaii thing. So when Smuggler’s Cove: Exotic Cocktails came out, you can imagine our excitement. http://www.thehawaiiproject.com/book/Smugglers-Cove-Exotic-Cocktails-Rum-and-the-Cult-of-Tiki–by–Martin-Cate–224582 Smuggler’s Cove: Exotic Cocktails is the brainchild of Martin...","categories": ["books"],
+        "excerpt":"Here at The Hawaii Project, you know we love great books. And you know we love great cocktails. And you can guess we’re into the Hawaii thing. So when Smuggler’s Cove: Exotic Cocktails came out, you can imagine our excitement. https://www.thehawaiiproject.com/book/Smugglers-Cove-Exotic-Cocktails-Rum-and-the-Cult-of-Tiki–by–Martin-Cate–224582 Smuggler’s Cove: Exotic Cocktails is the brainchild of Martin...","categories": ["books"],
         "tags": ["books","cocktails","hawaii","travel"],
         "url": "/2016/07/27/a-conversation-with-martin-cate-co-author-of-smugglers-cove-exotic-cocktails-rum-and-the-cult/",
         "teaser": null

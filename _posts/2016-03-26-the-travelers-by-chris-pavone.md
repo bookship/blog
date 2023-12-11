@@ -14,7 +14,7 @@ For a long time, I’ve wondered about how to characterize the difference betwee
 
 It’s all about the _plausibility_ of the events. In a Le Carré novel, everything is completely plausible. No James Bond unrealistic derring-do. No jumping out of airplanes without a parachute. No complete civilians discovering crazy secrets and getting pursued by mysterious strangers. Just real people betraying something or someone, or trying not to.
 
-[http://www.thehawaiiproject.com/book/The-Travelers-A-Novel--by--Chris-Pavone--171207](http://www.thehawaiiproject.com/book/The-Travelers-A-Novel--by--Chris-Pavone--171207)
+[https://www.thehawaiiproject.com/book/The-Travelers-A-Novel--by--Chris-Pavone--171207](https://www.thehawaiiproject.com/book/The-Travelers-A-Novel--by--Chris-Pavone--171207)
 
 Which puts Chris Pavone’s thoroughly enjoyable The Travelers squarely in the Spy Thriller camp. It has many elements you’d find in Le Carre — skepticism about the nature and motives of Intelligence agencies, a morally grey world view where most everyone is a bad guy of some sort. But most of the book is an adventure, a fun but not very plausible one.
 

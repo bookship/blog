@@ -10,7 +10,7 @@ tags:
   - "espionage"
 ---
 
-Inspired by my reading [The Girl Who Fell From The Sky](http://www.thehawaiiproject.com/book/The-Girl-Who-Fell-from-the-Sky--by--Simon-Mawer--173201), the first espionage book I’ve read with a female protagonist, I did some research on books with female spies in them.
+Inspired by my reading [The Girl Who Fell From The Sky](https://www.thehawaiiproject.com/book/The-Girl-Who-Fell-from-the-Sky--by--Simon-Mawer--173201), the first espionage book I’ve read with a female protagonist, I did some research on books with female spies in them.
 
 {% include card.html link="http://www.thehawaiiproject.com/list/Female-Spies--DgjoXV5zWE" %}
 

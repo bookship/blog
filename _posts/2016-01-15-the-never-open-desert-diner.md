@@ -32,6 +32,6 @@ Never Open Diner starts pretty prosaically, but soon Ben is wandering into an ab
 
 It’s really good fun.
 
-You can find more here: [http://www.thehawaiiproject.com/book/The-Never-Open-Desert-Diner--by--James-Anderson--100720](http://www.thehawaiiproject.com/book/The-Never-Open-Desert-Diner--by--James-Anderson--100720)
+You can find more here: [https://www.thehawaiiproject.com/book/The-Never-Open-Desert-Diner--by--James-Anderson--100720](https://www.thehawaiiproject.com/book/The-Never-Open-Desert-Diner--by--James-Anderson--100720)
 
 (I received an advance reader copy of this book from the Library Thing Early Reviewers program)

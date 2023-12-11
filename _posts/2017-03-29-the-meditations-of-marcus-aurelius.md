@@ -44,4 +44,10 @@ I have taken to reading a few pages of Marcus Aurelius’ Meditations every morn
 
 I particularly recommend (following [Ryan Holiday](https://medium.com/u/2e2701ae378f)) that you read the Gregory Hays translation.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Meditations--by--Marcus-Aurelius--39287" %}
+{% include card.html
+   title="Meditations"
+   description="A leading translation of Stoic philosophy in wise and practical aphorisms that have inspired Bill Clinton, Ryan Holiday, Anna Kendrick and many more.Written in Greek by an intellectual Roman emperor without any intention of publication, the Meditations of Marcus Aurelius offer a wide range of fascinating spiritual reflections and exercises developed as the leader struggled to understand himself and make sense of the universe. Spanning from doubt and despair to conviction and exaltation, they cover such diverse topics as the question of virtue, human rationality, the nature of the gods and the values of leadership. But while the Meditations were composed to provide personal consolation, in developing his beliefs Marcus also created one of the greatest of all works of philosophy: a series of wise and practical aphorisms that have been consulted and admired by statesmen, thinkers and ordinary readers for almost two thousand years.To provide a full understanding of Aurelius’s seminal work, this edition includes explanatory notes, a general index, an index of quotations, an index of names, and an introduction by Diskin Clay putting the work in its biographical, historical, and literary context, a chronology of Marcus Aurelius’s life and career.For more than seventy years, Penguin has been the leading publisher of classic literature in the English-speaking world. With more than 1,700 titles, Penguin Classics represents a global bookshelf of the best works throughout history and across genres and disciplines. Readers trust the series to provide authoritative texts enhanced by introductions and notes by distinguished scholars and contemporary authors, as well as up-to-date translations by award-winning translators."
+   link="https://www.thehawaiiproject.com/book/Meditations--by--Marcus-Aurelius--39287"
+   image="https://standardebooks.org/ebooks/marcus-aurelius/meditations/george-long/downloads/cover-thumbnail.jpg"
+%}
+

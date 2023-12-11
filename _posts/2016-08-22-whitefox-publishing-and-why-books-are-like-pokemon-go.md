@@ -46,7 +46,13 @@ Yes, actually we hosted a panel at last year’s London Book Fair that focused o
 
 We recently collaborated with photographer Matt Humphrey and actor John Schwab, project managing their glorious, deluxe book, which has been shortlisted for a British Book Design and Production Award. It’s called [_Curtain Call: A Year Backstage in London Theatre_](https://www.curtaincallonline.com/shop/curtain-call-book-2015) and features over 500 beautiful behind-the-scenes photos of actors rehearsing, recuperating and steeling their nerves backstage at London’s famous West End theatres. Matt and John had a strong vision for their book and knew they wanted a high level of quality and input into all the key decisions about design and production. The book has sold strongly through the Curtain Call website, exhibitions and retail channels, and Matt and John are already planning a new edition in 2017.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Curtain-Call-A-Year-Backstage-in-London-Theatre-2016--by--Matt-Humphrey--242788" %}--242788" %}--242788" %}--242788" %}
+{% include card.html
+   title="Curtain Call"
+   description="In this beautiful and groundbreaking book the reader is invited to go backstage with photographer Matt Humphrey and actor John Schwab as they present a side to London theatre that’s never before been portrayed. With unparalleled access throughout the year, take a journey behind the scenes via Humphrey’s striking reportage-style imagery and Schwab’s revealing, insightful interviews. Actors are seen from an entirely fresh perspective, featured alongside crew members and musicians, reflecting the immense collaborative effort behind each and every performance. A visually stunning celebration of sixty productions, from innovative new works to time-tested family favourites, Curtain Call’s inaugural book presents a vivid record of an extraordinary year in london theatre. For theatre and photography enthusiasts alike, with spectacular aesthetics, and flashes of intimacy and humour, this is a book that should be judged by its cover. 500+ colour and black & white photographs Foreword by David Suchet CBE"
+   link="https://www.thehawaiiproject.com/book/Curtain-Call-A-Year-Backstage-in-London-Theatre-2016--by--Matt-Humphrey--242788"
+   image="https://images-na.ssl-images-amazon.com/images/I/51gP6dzhXFL.jpg"
+%}
+
 
 Our longtime client and former Capitol Hill Chief of Staff, Gerald Weaver, has been in the UK doing the promotional rounds with published articles in _The Guardian_, _The Times Saturday Review_ and _The Big Issue_. His second novel [_The First First Gentleman_](https://www.amazon.com/First-Gentleman-Gerald-Weaver/dp/0993291759/ref=sr_1_1?ie=UTF8&qid=1470663780&sr=8-1&keywords=the+first+first+gentleman) is a timely story about Melinda Sherman’s race for the US Presidency and has just been published.
 

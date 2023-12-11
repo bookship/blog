@@ -59,7 +59,7 @@ It seemed more civil to you? Interesting — in a way it was a much hotter t
 
 _Maybe what I’m noticing is that it was a time when the internet wasn’t pervasive, and it’s not that it was more civil, just that it was more personal and less anonymous than internet flame wars._
 
-That’s a good point. Hawaiians have often said this to me— it came up a lot in the writing of [Fierce Heart](http://www.thehawaiiproject.com/book/Fierce-Heart-The-Story-of-Makaha-and-the-Soul-of-Hawaiian-Surfing--by--Stuart-Holmes-Coleman--182309) — they’d say, _we’d scrap (fight) with these guys, and then be singing songs and having beers with them afterwards_. You dealt with it, it was very personal, and face to face, and then move on. Now everything’s under the surface. Then, you scrapped and it was over. A lot of _haoles_ couldn’t get used to that. It’s a lot less healthy to keep it suppressed.
+That’s a good point. Hawaiians have often said this to me— it came up a lot in the writing of [Fierce Heart](https://www.thehawaiiproject.com/book/Fierce-Heart-The-Story-of-Makaha-and-the-Soul-of-Hawaiian-Surfing--by--Stuart-Holmes-Coleman--182309) — they’d say, _we’d scrap (fight) with these guys, and then be singing songs and having beers with them afterwards_. You dealt with it, it was very personal, and face to face, and then move on. Now everything’s under the surface. Then, you scrapped and it was over. A lot of _haoles_ couldn’t get used to that. It’s a lot less healthy to keep it suppressed.
 
 {% include card.html
    title="Eddie Aikau"

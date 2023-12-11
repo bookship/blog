@@ -13,7 +13,13 @@ tags:
 
 Song of the Exile is an extraordinary, powerful, heartbreaking novel. It follows the lives of Keo, a native Hawaiian who burns to play jazz, and Sunny, a Korean/Hawaiian student, as they fall in love, are separated by the tides of World War II, and try to find each other afterwards. Through a series of events Sunny is taken as a comfort woman by the Japanese. Her experiences are utterly heartbreaking. Keo’s search for her is equally devastating.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Song-of-the-Exile---by--Kiana-Davenport--153316#tab4" %}
+{% include card.html
+   title="Song of the Exile"
+   description="In this epic, original novel in which Hawaii’s fierce, sweeping past springs to life, Kiana Davenport, author of the acclaimed Shark Dialogues, draws upon the remarkable stories of her people to create a timeless, passionate tale of love and survival, tragedy and triumph, survival and transcendence. In spellbinding, sensual prose, Song of the Exile follows the fortunes of the Meahuna family—and the odyssey of one resilient man searching for his soul mate after she is torn from his side by the forces of war. From the turbulent years of World War II through Hawaii’s complex journey to statehood, this mesmerizing story presents a cast of richly imagined characters who rise up magnificent and forceful, redeemed by the spiritual power and the awesome beauty of their islands."
+   link="https://www.thehawaiiproject.com/book/Song-of-the-Exile---by--Kiana-Davenport--153316#tab4"
+   image="https://images-na.ssl-images-amazon.com/images/I/51mT9C-r3mL.jpg"
+%}
+
 
 The early chapters set in Hawaii are transporting. You can smell the flowers, feel the skin, hear the jazz as it pours out of Keo. Song of the Exile is a kind of crash course in Hawaiian history and culture, but not like a lecture.
 

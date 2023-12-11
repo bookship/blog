@@ -15,7 +15,13 @@ coverImage: "bf9d6-1y6jlqxkul0rdemy-diuw2q.png"
 
 As I’ve [previously written](https://medium.com/@thehawaiiproj/books-music-like-wine-chocolate-4203589ebb6b#.on0onh1hg), Books & Music go together so naturally it’s hard to imagine them separately. But that pairing is usually implicit. So it’s a pleasure to stumble on an anthology of Noir short stories grounded in the world of music. Meet **Crime Plus Music**, a new anthology edited by Jim Fusilli, accomplished author and the Rock & Pop music critic for the Wall Street Journal. It’s hard to imagine someone more perfectly suited for the job. Jim was kind enough to share his thoughts on the anthology, and his experiences as a writer and music critic.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Crime-Plus-Music-Twenty-Stories-of-Music-Themed-Noir--by--Jim-Fusilli--230356" %}
+{% include card.html
+   title="Crime Plus Music"
+   description="CRIME + MUSIC: The Sounds of Noir, collects twenty darkly intense, music-related noir stories by world-renowned mystery authors including David Corbett, Tyler Dilts, Brendan DuBois, Bill Fitzhugh, Alison Gaylin, A.J. Hartley, Craig Johnson, David Liss, Val McDermid, Gary Phillips, Peter Robinson, and Zoë Sharp, and, from the music world, Galadrielle Allman, author of Please Be With Me: A Song for My Father, Duane Allman and award-winning songwriter-novelist Willy Vlautin. Edited by novelist and Wall Street Journal rock and pop music critic Jim Fusilli.The lively anthology’s chilling, sinister tales tap into the span of rock and pop history, ranging from Peter Blauner’s heart-wrenching The Last Temptation of Frankie Lymon” to Fusilli’s Boy Wonder,” set in the world of contemporary electronic dance music; from Naomi Rand’s The Misfits,” a punk-rock revenge saga to Mark Haskell Smith’s menacingly comedic 1968 Pelham Blue SG Jr.”; from Reed Farrel Coleman’s study of a one-hit wonder, Look at Me/Don’t Look at Me” to Erica Wright’s account of betrayal among minor talents in A Place You’re Likely to Find”and many more.CRIME + MUSIC exposes the nasty side of the world of popular music, revealing it to be the perfect setting for noir tales."
+   link="https://www.thehawaiiproject.com/book/Crime-Plus-Music-Twenty-Stories-of-Music-Themed-Noir--by--Jim-Fusilli--230356"
+   image="https://images-na.ssl-images-amazon.com/images/I/51WcJ108hUL.jpg"
+%}
+
 
 _You’re an accomplished author with your own works, as well as the Rock & Pop critic for the Wall Street Journal. What drove you to produce and edit a collection of other writers’ work?_
 
@@ -81,7 +87,7 @@ _The older you get the less you care what other people think and like, you want 
 
 Yes. I just dedicated a book to this, _Catching Up_. It’s a collection of essays and 50 album reviews. Some of the albums are from popular artists, but I expect most readers haven’t heard of most of these people. But I’m equally sure that once they hear the music they’d be delighted. The challenge for me is to put the reader/listener together with the music.
 
-{% include card.html link="https://www.thehawaiiproject.com/book/Crime-Plus-Music-Twenty-Stories-of-Music-Themed-Noir--by--Jim-Fusilli--230356" %}
+{% include card.html link="aiiproject.com/book/Catching-Up-Connecting-With-Great-21st-Century-Music--by--Jim-Fusilli--206095" %}
 
 _Speaking of what grownups are interested in — electronic music. Some grownups are, some aren’t. You wrote a great story for the book,_ Boy Wonder_, about a young musical genius and his encounter with the EDM industry. As a 50-something myself with an on-again, off-again interest in electronic music, I’d love to hear the backstory, and more broadly, about electronic music for grownups._  
    

@@ -10,7 +10,7 @@ tags:
   - "espionage"
 ---
 
-After finishing Adam Sisman’s [gripping biography of John Le Carre](http://www.thehawaiiproject.com/book/John-le-Carre-The-Biography--by--Adam-Sisman--169198), as a seasoned reader of espionage fiction I realized I had a big gap — I’d not read Graham Greene. I decided to start with “Our Man in Havana”, a light-hearted (or mostly so) caper set in Cuba.
+After finishing Adam Sisman’s [gripping biography of John Le Carre](https://www.thehawaiiproject.com/book/John-le-Carre-The-Biography--by--Adam-Sisman--169198), as a seasoned reader of espionage fiction I realized I had a big gap — I’d not read Graham Greene. I decided to start with “Our Man in Havana”, a light-hearted (or mostly so) caper set in Cuba.
 
 {% include card.html
    title="Our Man in Havana"
