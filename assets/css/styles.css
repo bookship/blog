@@ -64,6 +64,10 @@ img, .img-keep-in-check {
   width: 100%;
 }
 
+.align-right img, .align-left img  {
+  width: 10rem;
+}
+
 /* embedded cards (thp links, etc) */
 
 .embed {

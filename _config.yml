@@ -67,6 +67,9 @@ author:
   avatar : "/assets/images/logo.png"
   bio    : "Bookship is a social reading app for sharing your reading experiences with friends."
   links:
+    - label: "Get the app"
+      icon: "fas fa-fw fa-download"
+      url: "https://www.bookshipapp.com/download"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.bookshipapp.com"
@@ -127,3 +130,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+analytics:
+  provider: "google-gtag"
+  google:
+#    tracking_id: "UA-103574219-5"
+    tracking_id: "G-T1RBSK129E"
+#    anonymize_ip: false # default

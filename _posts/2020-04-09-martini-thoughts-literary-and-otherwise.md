@@ -31,7 +31,7 @@ It’s been a long while since then, and I’ve encountered a lot of Martinis in
 
 Triggered by a friend’s text message (not the _I’m-losing-it_ kind of triggered, just the _it-reminds-me-of_ kind of triggered), I’m thinking of some of my favorite Martini stories, literary and otherwise. My quarantine drink of choice has become the Martini, very dry. I haven't yet taken to calling it a Quarantini, but I might get there. By the way: there are a lot of [Quarantine Book Clubs](https://www.google.com/search?q=quarantine+book+club) out there!
 
-[![]({{ site.url }}{{ site.baseurl }}/assets/images/drno.jpg)](https://www.amazon.com/Dr-No-James-Bond-Extended-ebook/dp/B008L40Q7E/ref=as_li_ss_tl?dchild=1&keywords=dr+no&qid=1586398247&rnid=2941120011&s=books&sr=1-1&linkCode=ll1&tag=codexmap-20&linkId=75e49802b5f3e64c16b9af7cb10b819f&language=en_US)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/drno.jpg)](https://www.amazon.com/Dr-No-James-Bond-Extended-ebook/dp/B008L40Q7E/ref=as_li_ss_tl?dchild=1&keywords=dr+no&qid=1586398247&rnid=2941120011&s=books&sr=1-1&linkCode=ll1&tag=codexmap-20&linkId=75e49802b5f3e64c16b9af7cb10b819f&language=en_US){: .align-left}
 
 “Shaken, not stirred” made its first appearance in Ian Fleming’s 6th Bond novel, [Dr. No](https://www.amazon.com/Dr-No-James-Bond-Extended-ebook/dp/B008L40Q7E/ref=as_li_ss_tl?dchild=1&keywords=dr+no&qid=1586398247&rnid=2941120011&s=books&sr=1-1&linkCode=ll1&tag=codexmap-20&linkId=75e49802b5f3e64c16b9af7cb10b819f&language=en_US). But of course, it was memorialized forever by Sean Connery. This advice is contrary to all textbook cocktail technique — Martinis, and any other cocktail with no fruit juice, is to be stirred, not shaken. 
 
@@ -41,7 +41,7 @@ I was reminded of all this by my friend’s text message, reminding me of the ad
 
 To my now-adjusted tastes, this is how a dry Martini should be made. Gin, not Vodka. Perhaps, after first rinsing the glass with Vermouth and discarding it (the vermouth, not the glass).  Reasonable people can differ about this, of course.
 
-[![]({{ site.url }}{{ site.baseurl }}/assets/images/lifeismeals.jpg)](https://www.amazon.com/Life-Meals-Food-Lovers-Book-ebook/dp/B000SEFGQQ/ref=as_li_ss_tl?dchild=1&keywords=life+is+meals&qid=1586398348&sr=8-1&linkCode=ll1&tag=codexmap-20&linkId=0534f3941260dae22ce29304685fc1c6&language=en_US)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/lifeismeals.jpg)](https://www.amazon.com/Life-Meals-Food-Lovers-Book-ebook/dp/B000SEFGQQ/ref=as_li_ss_tl?dchild=1&keywords=life+is+meals&qid=1586398348&sr=8-1&linkCode=ll1&tag=codexmap-20&linkId=0534f3941260dae22ce29304685fc1c6&language=en_US){: .align-right}
 
 Speaking of Martini tricks, I must pass on a secret I learned from James Salter, the world’s best writer you never heard of. (I have not explained this to my father-in-law — I am afraid of what he will say). From [Life is Meals](https://www.amazon.com/Life-Meals-Food-Lovers-Book-ebook/dp/B000SEFGQQ/ref=as_li_ss_tl?dchild=1&keywords=life+is+meals&qid=1586398348&sr=8-1&linkCode=ll1&tag=codexmap-20&linkId=0534f3941260dae22ce29304685fc1c6&language=en_US), a non-fiction book Salter wrote with his wife:
 
@@ -72,7 +72,7 @@ Of course, it’s easy to overindulge in Martinis. Salter quotes the writer Jame
 
 Is there is any character in literature more associated with Martinis than James Bond? It’s hard to imagine. In [Casino Royale](https://www.amazon.com/Casino-Royale-James-Bond-Extended-ebook/dp/B008L40NT0/ref=as_li_ss_tl?crid=2O8C7G8Y4EJQU&dchild=1&keywords=casino+royale&qid=1586398451&s=digital-text&sprefix=casino+ro,digital-text,276&sr=1-1&linkCode=ll1&tag=codexmap-20&linkId=6b9d674a6b577987995395a35d1f4981&language=en_US) (the book), he invents one of my favorite variations: the Vesper. 
 
-[![]({{ site.url }}{{ site.baseurl }}/assets/images/casino.jpg)](https://www.amazon.com/Casino-Royale-James-Bond-Extended-ebook/dp/B008L40NT0/ref=as_li_ss_tl?crid=2O8C7G8Y4EJQU&dchild=1&keywords=casino+royale&qid=1586398451&s=digital-text&sprefix=casino+ro,digital-text,276&sr=1-1&linkCode=ll1&tag=codexmap-20&linkId=6b9d674a6b577987995395a35d1f4981&language=en_US)
+[![]({{ site.url }}{{ site.baseurl }}/assets/images/casino.jpg)](https://www.amazon.com/Casino-Royale-James-Bond-Extended-ebook/dp/B008L40NT0/ref=as_li_ss_tl?crid=2O8C7G8Y4EJQU&dchild=1&keywords=casino+royale&qid=1586398451&s=digital-text&sprefix=casino+ro,digital-text,276&sr=1-1&linkCode=ll1&tag=codexmap-20&linkId=6b9d674a6b577987995395a35d1f4981&language=en_US){: .align-right}
 
 > ”A Dry Martini”, he said. “One. In a deep champagne goblet.”   
 > ”Oui, monsieur.”   

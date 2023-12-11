@@ -13,8 +13,8 @@ main:
     url: /bookship-premium/
   - title: "About"
     url: /about
-  # - title: "Categories"
-  #   url: /categories/
-  # - title: "Tags"
-  #   url: /tags/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   
