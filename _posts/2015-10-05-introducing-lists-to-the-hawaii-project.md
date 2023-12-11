@@ -29,7 +29,7 @@ Lists are a great way of organizing and sharing things. The Hawaii Project has a
 %}
 
 
-So I made a list of them. I’ve made it _public_ (anyone can see the list) and _collaborative_ (anyone can add to the list). [Have a look here](http://www.thehawaiiproject.com/list/Books-set-in-Bookstores-or-Libraries--8btRQkOefZ), and please! add to the list if you know some great ones.
+So I made a list of them. I’ve made it _public_ (anyone can see the list) and _collaborative_ (anyone can add to the list). [Have a look here](https://www.thehawaiiproject.com/list/Books-set-in-Bookstores-or-Libraries--8btRQkOefZ), and please! add to the list if you know some great ones.
 
 Creating a list is easy (you need to have an account and be signed in). Just go to **My Stuff** \-> **My Lists**, and hit **Create List**, and off you go. You can add a book to one of your lists from the Books page (the drop-down under the **Want** button), or directly from the list’s page.
 

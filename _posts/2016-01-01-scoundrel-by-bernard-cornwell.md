@@ -10,7 +10,7 @@ tags:
   - "scribd"
 ---
 
-As part of my continuing experiment with Scribd’s ebook subscription service, I stumbled upon Scoundrel, by one of my favorite authors, [Bernard Cornwell](http://www.thehawaiiproject.com/books--written-by--Bernard-Cornwell). I know him from his great historical fiction - some of my favorites are the [Saxon Chronicles](https://www.thehawaiiproject.com/book/The-Last-Kingdom-%28The-Saxon-Chronicles-Series-1%29--by--Bernard-Cornwell--5692), his novel about [Agincour](https://www.thehawaiiproject.com/book/Agincourt--by--Bernard-Cornwell--5683)t and the [Thomas of Hookton Archer series](https://www.thehawaiiproject.com/book/The-Archers-Tale-%28The-Grail-Quest-Book-1%29--by--Bernard-Cornwell--5688). Who knew he’d written sailing novels?
+As part of my continuing experiment with Scribd’s ebook subscription service, I stumbled upon Scoundrel, by one of my favorite authors, [Bernard Cornwell](https://www.thehawaiiproject.com/books--written-by--Bernard-Cornwell). I know him from his great historical fiction - some of my favorites are the [Saxon Chronicles](https://www.thehawaiiproject.com/book/The-Last-Kingdom-%28The-Saxon-Chronicles-Series-1%29--by--Bernard-Cornwell--5692), his novel about [Agincour](https://www.thehawaiiproject.com/book/Agincourt--by--Bernard-Cornwell--5683)t and the [Thomas of Hookton Archer series](https://www.thehawaiiproject.com/book/The-Archers-Tale-%28The-Grail-Quest-Book-1%29--by--Bernard-Cornwell--5688). Who knew he’d written sailing novels?
 
 {% include card.html
    title="Scoundrel"

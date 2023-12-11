@@ -13,7 +13,7 @@ coverImage: "c64b0-10jtuaeo900u4kiytrygspa.jpeg"
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/c64b0-10jtuaeo900u4kiytrygspa.jpeg)
 
-This is the third and final post in our continuing series on how and why [The Hawaii Project recommends great books,](http://www.thehawaiiproject.com) and more broadly the key ingredients in a good discovery or recommendation system. (Part I: [Ratings & Reviews are Broken](https://medium.com/@thehawaiiproj/the-ratings-reviews-model-is-broken-there-s-a-better-way-ebcd1b057749); Part II: [the Limits of Social Discovery](https://medium.com/@thehawaiiproj/the-limits-of-social-discovery-8a9dfe6aa692)).
+This is the third and final post in our continuing series on how and why [The Hawaii Project recommends great books,](https://www.thehawaiiproject.com) and more broadly the key ingredients in a good discovery or recommendation system. (Part I: [Ratings & Reviews are Broken](https://medium.com/@thehawaiiproj/the-ratings-reviews-model-is-broken-there-s-a-better-way-ebcd1b057749); Part II: [the Limits of Social Discovery](https://medium.com/@thehawaiiproj/the-limits-of-social-discovery-8a9dfe6aa692)).
 
 Today we’ll focus on **Curation** — the power that talented curators can bring to discovery, the limits of what Curation can do for you, and solutions starting to develop in the market.
 
@@ -23,7 +23,7 @@ We’re all drowning in content. Everything from long form writing on LinkedIn a
 
 How do you make sense out of that flood of content? Separate the gold from the rock?
 
-Traditionally, people might use Google to navigate the content. But that only works well if you know what you’re looking for. Googling “_Elon Musk Biography_” is likely to get you where you want to go; googling “[_what should I read next_](http://www.thehawaiiproject.com/what-should-I-read-next)” will not. In the enterprise world, Analytics Dashboards and Big Data are great at answering pre-defined questions but not so great at exploring a previously-unstated (and perhaps unknown) question.
+Traditionally, people might use Google to navigate the content. But that only works well if you know what you’re looking for. Googling “_Elon Musk Biography_” is likely to get you where you want to go; googling “[_what should I read next_](https://www.thehawaiiproject.com/what-should-I-read-next)” will not. In the enterprise world, Analytics Dashboards and Big Data are great at answering pre-defined questions but not so great at exploring a previously-unstated (and perhaps unknown) question.
 
 People hunger for authentic, relevant content, not listicles of top 20 crap. They’ve begun turning to Curators to surf the flood of content. If Robert Scoble says a startup is interesting, it probably is. Maria Popova at [Brainpickings](http://brainpickings.org) produces a mini-flood of fascinating articles and literary expositions. Jason Hirschhorn’s [MediaRedef](http://redef.com/channel/media) is an awesome curated set of commentaries on the media industry. [Ryan Holiday](http://ryanholiday.net/) consistently recommends life-changing books you probably haven’t heard of. And that’s not to mention the still-high-quality “institutional” curators and content producers— the New Yorkers, Guardians and Wall Street Journals of the world. While the economics of media is deeply challenged due to the commoditization of online content, traditional media still churns out high quality content in a number of places.
 
@@ -48,7 +48,7 @@ What if…..
 
 What if there was something that knew the curators you valued and could constantly be watching what they’re up to? And telling you when they’ve curated something you’ll be interested in? (RSS readers used to perform the watching function, before RSS died as a consumer tool, but RSS never really helped with the personalization and filtering side of things). Someone / something that would “curate the curators”?
 
-I call a system like that “Personalized Curation”. We’re beginning to see the beginnings of it with Music (Apple Music & [Shuffler.FM](http://www.shuffler.fm)), News ([Nuzzel](http://www.nuzzel.com) & [Quibb](http://www.quibb.com)), and that’s what we’re tackling for Books with [The Hawaii Project](http://www.thehawaiiproject.com). Domain-specific personalized curation also allows for easy consumption of the discovered content — e.g. when Apple Music brings me an interesting song, I can listen to it.
+I call a system like that “Personalized Curation”. We’re beginning to see the beginnings of it with Music (Apple Music & [Shuffler.FM](http://www.shuffler.fm)), News ([Nuzzel](http://www.nuzzel.com) & [Quibb](http://www.quibb.com)), and that’s what we’re tackling for Books with [The Hawaii Project](https://www.thehawaiiproject.com). Domain-specific personalized curation also allows for easy consumption of the discovered content — e.g. when Apple Music brings me an interesting song, I can listen to it.
 
 In a non-domain-specific way, Google Now and Flipboard are also headed that way. But because they are domain-agnostic, they can’t offer quite as deep an understanding of my personal interests and it’s harder for them to facilitate consumption (e.g. I can’t easily listen to music on Flipboard, or at least don’t think to).
 

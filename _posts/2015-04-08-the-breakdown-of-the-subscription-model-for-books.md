@@ -23,4 +23,4 @@ Today we have some news on that. Oyster is now selling, not renting, books. Basi
 
 The problem isn’t (and hasn’t been) that readers needed to ways to acquire books and lower cost. There’s so many options — Amazon (including many free/low cost ebooks), B&N (physical stores + Nook), Apple, Indie Bookstores, your local library (free for goodness sake!), and others I’ve likely forgotten.
 
-The problem is finding great stuff to read. Which is why we started [The Hawaii Project](http://www.thehawaiiproject.com). Join us and Do Good by Reading Well. (also on Kickstarter now: [The Hawaii Project on Kickstarter](http://www.thehawaiiproject.com/kickstarter)
+The problem is finding great stuff to read. Which is why we started [The Hawaii Project](https://www.thehawaiiproject.com). Join us and Do Good by Reading Well. (also on Kickstarter now: [The Hawaii Project on Kickstarter](https://www.thehawaiiproject.com/kickstarter)

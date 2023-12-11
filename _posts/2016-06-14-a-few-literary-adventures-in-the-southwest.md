@@ -43,4 +43,4 @@ And for exploring the territory and getting a sense of the land and how it influ
 
 Tomorrow, we hit Santa Fe. George R.R. Martin territory!
 
-(for a great list of books about the ancient southwest, check out [this list](http://www.thehawaiiproject.com/list/Books-about-the-Southwest--1eHevw3okR) on The Hawaii Project.)
+(for a great list of books about the ancient southwest, check out [this list](https://www.thehawaiiproject.com/list/Books-about-the-Southwest--1eHevw3okR) on The Hawaii Project.)

@@ -9,7 +9,7 @@ tags:
   - "espionage"
 ---
 
-You know the classics. [A Perfect Spy](https://www.thehawaiiproject.com/book/A-Perfect-Spy--by--John-le-Carre--30245), [Tinker Tailor](https://www.thehawaiiproject.com/book/Tinker-Tailor-Soldier-Spy--by--John-le-Carre--30260) or [The Spy Who Came in from the Cold](https://www.thehawaiiproject.com/book/Spy-Who-Came-in-from-the-Cold-%28Penguin-Modern-Classics%29--by--John-le-Carr%C3%A9--30252), by [John Le Carre](http://www.thehawaiiproject.com/books--written-by--John-le-Carr%C3%A9). [Alan Furst](http://www.thehawaiiproject.com/books--written-by--Alan-Furst)’s Eastern Europe. [Graham Greene](https://www.thehawaiiproject.com/book/Our-Man-in-Havana-%28Penguin-Classics%29--by--Graham-Greene--21399)’s jaundiced take on the West and espionage. [Daniel Silva’s Gabriel Allon thrillers](http://www.thehawaiiproject.com/books--written-by--Daniel-Silva). Looking for some off-the-beaten path spy novels? What should you read next?
+You know the classics. [A Perfect Spy](https://www.thehawaiiproject.com/book/A-Perfect-Spy--by--John-le-Carre--30245), [Tinker Tailor](https://www.thehawaiiproject.com/book/Tinker-Tailor-Soldier-Spy--by--John-le-Carre--30260) or [The Spy Who Came in from the Cold](https://www.thehawaiiproject.com/book/Spy-Who-Came-in-from-the-Cold-%28Penguin-Modern-Classics%29--by--John-le-Carr%C3%A9--30252), by [John Le Carre](https://www.thehawaiiproject.com/books--written-by--John-le-Carr%C3%A9). [Alan Furst](https://www.thehawaiiproject.com/books--written-by--Alan-Furst)’s Eastern Europe. [Graham Greene](https://www.thehawaiiproject.com/book/Our-Man-in-Havana-%28Penguin-Classics%29--by--Graham-Greene--21399)’s jaundiced take on the West and espionage. [Daniel Silva’s Gabriel Allon thrillers](https://www.thehawaiiproject.com/books--written-by--Daniel-Silva). Looking for some off-the-beaten path spy novels? What should you read next?
 
 Here’s 10 great spy novels you’ve probably never heard of.
 
@@ -128,4 +128,4 @@ Last but not least:
 
 Take a look. Your bookshelf will thank you.
 
-Want more great books like this? Sign up for [The Hawaii Project](http://www.thehawaiiproject.com)!
+Want more great books like this? Sign up for [The Hawaii Project](https://www.thehawaiiproject.com)!

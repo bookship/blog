@@ -13,7 +13,7 @@ coverImage: "2a999-18eshtpljrcng172kknvsow.jpeg"
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/2a999-18eshtpljrcng172kknvsow.jpeg)
 
-Here at [The Hawaii Project](http://www.thehawaiiproject.com), we love music almost as much as we love books. The experience of reading a great book, combined with appropriate music, can be transporting.
+Here at [The Hawaii Project](https://www.thehawaiiproject.com), we love music almost as much as we love books. The experience of reading a great book, combined with appropriate music, can be transporting.
 
 We’re currently reading Dark Star, by Alan Furst. Think Casablanca in pre-WWII Paris and Berlin. With a Russian Jewish spy, trapped in a closing net.
 
@@ -31,4 +31,4 @@ You can read more about the book on The Hawaii Project, and see the playlist, an
 %}
 
 
-To see all our books with playlist, head over to [this link](http://www.thehawaiiproject.com/channel/best--book-music-playlists--books).
+To see all our books with playlist, head over to [this link](https://www.thehawaiiproject.com/channel/best--book-music-playlists--books).

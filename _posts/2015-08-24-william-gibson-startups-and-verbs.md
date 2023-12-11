@@ -31,4 +31,4 @@ You’ve heard it said that startups are a search for a business model. And that
 
 What’s your verb?
 
-(btw: [The Hawaii Project](http://www.thehawaiiproject.com) — [the best way to find great books to read](http://www.thehawaiiproject.com) — is demoing at Mass Innovation Nights. If you like what we’re up to, we can use your vote, here: [http://buff.ly/1hWR6Ay](http://buff.ly/1hWR6Ay)).
+(btw: [The Hawaii Project](https://www.thehawaiiproject.com) — [the best way to find great books to read](https://www.thehawaiiproject.com) — is demoing at Mass Innovation Nights. If you like what we’re up to, we can use your vote, here: [http://buff.ly/1hWR6Ay](http://buff.ly/1hWR6Ay)).

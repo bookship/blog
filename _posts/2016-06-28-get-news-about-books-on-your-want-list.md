@@ -20,6 +20,6 @@ Now, if you’re like me, your TBR list is out of control. Today, we’re introd
 
 We make it as easy as clicking a link. Like this:
 
-[http://www.thehawaiiproject.com/articlespage/want-list](http://www.thehawaiiproject.com/articlespage/want-list)
+[https://www.thehawaiiproject.com/articlespage/want-list](https://www.thehawaiiproject.com/articlespage/want-list)
 
 You can always find it in the News section of the site, under the Channels menu, “News about your Want List”.

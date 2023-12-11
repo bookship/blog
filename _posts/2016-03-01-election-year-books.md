@@ -20,6 +20,6 @@ I guess maybe they are afraid of the controvery.
 
 Well not us. In honor of Super Tuesday, we give you our Election Year books!
 
-{% include card.html link="http://www.thehawaiiproject.com/list/Election-Year-Books--hELxhlCP7P" %}
+{% include card.html link="https://www.thehawaiiproject.com/list/Election-Year-Books--hELxhlCP7P" %}
 
 Trump, Clinton, Sanders, and the rest. Our recommended reading for the election. Enjoy. Vote!

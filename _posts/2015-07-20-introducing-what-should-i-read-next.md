@@ -15,7 +15,7 @@ coverImage: "09c80-1q06aicxqkybappkky9r_qg.jpeg"
 
 So, I’m currently reading [The Water Knife](https://www.thehawaiiproject.com/book/The-Water-Knife--by--Paolo-Bacigalupi--46654), an extremely interesting near-future take on the water problems faced by the American Southwest. ([_The ancient Anasazi has the same problems but that’s a different blog post_](http://www.viking2917.com/its-right-under-your-nose/)). Post-apocalyptic climate change fiction with a healthy dose of William Gibson-esque cyberpunk. Great read, no matter your point of view about climate change. Shortly I’ll be done with it, and facing the inevitable “what should I read next” question.
 
-Well here at [The Hawaii Project](http://www.thehawaiiproject.com) you know we’re all about great book recommendations, finding great books you’d never find on your own. We’re excited today to introduce a new feature, “[What Should I Read Next](http://www.thehawaiiproject.com/what-should-I-read-next)”. Now, to be honest, this has been done before. But not well. Let’s show you in action how different and better our results are.
+Well here at [The Hawaii Project](https://www.thehawaiiproject.com) you know we’re all about great book recommendations, finding great books you’d never find on your own. We’re excited today to introduce a new feature, “[What Should I Read Next](https://www.thehawaiiproject.com/what-should-I-read-next)”. Now, to be honest, this has been done before. But not well. Let’s show you in action how different and better our results are.
 
 The most well known approach is Amazon’s “Customers who bought this also bought that”. For the Water Knife, Amazon tells me
 
@@ -24,7 +24,7 @@ The most well known approach is Amazon’s “Customers who bought this also bou
 
 Goodreads at least doesn’t show me books by the same author, but does show me 4 or 5 space operas with nothing in common with The Water Knife. None of these recommendations is really very interesting or relevant.
 
-Let’s check out The Hawaii Project. If you want to know [what to read after The Water Knife](http://www.thehawaiiproject.com/what-should-I-read-next-after--The-Water-Knife--46654), we’ve got you covered.
+Let’s check out The Hawaii Project. If you want to know [what to read after The Water Knife](https://www.thehawaiiproject.com/what-should-I-read-next-after--The-Water-Knife--46654), we’ve got you covered.
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/09e4d-1warwvrscm2q5s-6zdqyqna.jpeg)
 
@@ -40,4 +40,4 @@ So much more interesting and valuable.
 
 What makes our approach different? The Hawaii Project is unique in that it identifies what books the influencers and tastemakers are writing about, and so we can identify when two books are written about together — a very strong signal that the two books are related to each other. We also take into account what the book is _about_, rather than simply whether people who bought this also bought that — a very weak signal that the books are related.
 
-Give it a whirl with _your_ favorite book. [What Should I Read Next](http://www.thehawaiiproject.com/what-should-I-read-next)?
+Give it a whirl with _your_ favorite book. [What Should I Read Next](https://www.thehawaiiproject.com/what-should-I-read-next)?

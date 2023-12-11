@@ -10,7 +10,7 @@ tags:
   - "world-war-ii"
 ---
 
-[Alan Furst](http://www.thehawaiiproject.com/books--written-by--Alan-Furst) is the master of the historical spy novel, particularly the era just before World War II erupts. In Spies of the Balkans, he takes on, well, the Balkans.
+[Alan Furst](https://www.thehawaiiproject.com/books--written-by--Alan-Furst) is the master of the historical spy novel, particularly the era just before World War II erupts. In Spies of the Balkans, he takes on, well, the Balkans.
 
 {% include card.html
    title="Spies of the Balkans"

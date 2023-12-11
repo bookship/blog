@@ -11,7 +11,7 @@ tags:
 coverImage: "55b0f-1kjbrdhhsou5q-wxck71law.png"
 ---
 
-This is the second post in our continuing series on how and why [The Hawaii Project recommends great books,](http://www.thehawaiiproject.com) and more broadly the key ingredients in a good discovery or recommendation system.
+This is the second post in our continuing series on how and why [The Hawaii Project recommends great books,](https://www.thehawaiiproject.com) and more broadly the key ingredients in a good discovery or recommendation system.
 
 In our [last post](https://medium.com/@thehawaiiproj/the-ratings-reviews-model-is-broken-there-s-a-better-way-ebcd1b057749), we argued that the “ratings & review” model for decision making and discovery is corrupt and broken.
 
@@ -54,7 +54,7 @@ If socially driven discovery systems have these challenges, what’s the alterna
 
 I am a big fan of curation. There are people (curators) who spend their time looking for interesting things and writing about them. **Robert Scoble** for Startups. **Maria Popova** for intellectual ideas and books. **Jason Hirschhorn** for Media. **Pitchfork** for Music. Aggregating their streams can produce something that is satisfies our last two requirements: that the items be _interesting_ (because they’re curated) and _surprising_ (because curators are always writing about something fresh and we’re aggregating those interesting items into a time-based stream that’s constantly renewed). But that aggregation won’t be sufficiently _relevant_. Not everything a given curator writes about will match your personal interests.
 
-If we take those streams and layer on top of it a “picker” that grabs the personally relevant things, you will get a much more interesting, high quality stream of discoveries. I call this approach “_Personalized Curation_”. That is the approach we’re taking to [book recommendations on The Hawaii Project](http://www.thehawaiiproject.com), and you can see similar approaches happening in Music (Shuffler.FM and Apple Music), News (Flipboard, Quibb) and other areas.
+If we take those streams and layer on top of it a “picker” that grabs the personally relevant things, you will get a much more interesting, high quality stream of discoveries. I call this approach “_Personalized Curation_”. That is the approach we’re taking to [book recommendations on The Hawaii Project](https://www.thehawaiiproject.com), and you can see similar approaches happening in Music (Shuffler.FM and Apple Music), News (Flipboard, Quibb) and other areas.
 
 Personally Relevant. Interesting. Surprising. Deliver on all three and you’ll get and keep your audience.
 

@@ -14,7 +14,7 @@ coverImage: "c2b74-1bxq7jhnqeoibzogs4-hepw.jpeg"
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/c2b74-1bxq7jhnqeoibzogs4-hepw.jpeg)
 
-After nearly a year of development, it’s time to raise the curtain on [The Hawaii Project](http://www.thehawaiiproject.com). Come on in — the water’s fine!
+After nearly a year of development, it’s time to raise the curtain on [The Hawaii Project](https://www.thehawaiiproject.com). Come on in — the water’s fine!
 
 People are drowning in new books. Some say “[the glut is good](http://www.hughhowey.com/the-glut-is-good/)”, but readers are left adrift on an ocean of new books trying to find the books that matter.
 
@@ -31,10 +31,10 @@ What if there was something that watched what the curators wrote about, then bro
 
 The Hawaii Project watches a curated slice of the books web, figuring out what the curators, influencers and tastemakers are writing about, and then matches it to the books, topics and authors you love — bringing you great books matching your interests. Great books to read, and a highly tailored news feed filled with interesting articles to read about books and subjects you’re interested in.
 
-In the coming weeks we’ll be exploring this in more detail, but for now, the best news is: it’s available NOW. Just head over to [http://www.thehawaiiproject.com](http://www.thehawaiiproject.com) and sign up. A basic account is free.
+In the coming weeks we’ll be exploring this in more detail, but for now, the best news is: it’s available NOW. Just head over to [https://www.thehawaiiproject.com](https://www.thehawaiiproject.com) and sign up. A basic account is free.
 
 * * *
 
-Reading and literacy are powerful forces for good. We started The Hawaii Project to share our love of books and to use entrepreneurship to create an engine to generate cold hard cash that we’ll share with deserving literacy non-profits. So the less fortunate of us can still grow to love books and learning. We generate revenue through our [Premium Accounts](http://www.thehawaiiproject.com/accountlevels), and _10% of our revenue goes to fund 3 great literacy non-profits_.
+Reading and literacy are powerful forces for good. We started The Hawaii Project to share our love of books and to use entrepreneurship to create an engine to generate cold hard cash that we’ll share with deserving literacy non-profits. So the less fortunate of us can still grow to love books and learning. We generate revenue through our [Premium Accounts](https://www.thehawaiiproject.com/accountlevels), and _10% of our revenue goes to fund 3 great literacy non-profits_.
 
-[Join us](http://www.thehawaiiproject.com) and Do Good by Reading Well.
+[Join us](https://www.thehawaiiproject.com) and Do Good by Reading Well.

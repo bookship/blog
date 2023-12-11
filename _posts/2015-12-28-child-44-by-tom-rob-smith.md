@@ -10,7 +10,7 @@ tags:
   - "review"
 ---
 
-Tl/DR: If you liked [Gorky Park](https://www.thehawaiiproject.com/book/Gorky-Park-%28Arkady-Renko-No.-1%29--by--Martin-Cruz-Smith--40596) or anything by [Martin Cruz Smith](http://www.thehawaiiproject.com/books--written-by--Martin-Cruz-Smith), read Child 44.
+Tl/DR: If you liked [Gorky Park](https://www.thehawaiiproject.com/book/Gorky-Park-%28Arkady-Renko-No.-1%29--by--Martin-Cruz-Smith--40596) or anything by [Martin Cruz Smith](https://www.thehawaiiproject.com/books--written-by--Martin-Cruz-Smith), read Child 44.
 
 Leo Demidov is an idealistic state security officer in 1950s Stalinist Russia. He dotes on his wife, (mostly) believes his work supporting the State is really in the best interests of everyone. His job investigating crimes is really only complicated by the State’s insistence that because they live in the worker’s paradise, there _aren’t any crimes_. When Leo continues to investigate what appears to be a serial killing, when his superiors have declared the case closed, everything he believes will be challenged.
 

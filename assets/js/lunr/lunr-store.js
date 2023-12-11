@@ -204,7 +204,7 @@ var store = [{
         "teaser": null
       },{
         "title": "March Madness Books",
-        "excerpt":"Are you watching March Madness?   Maybe you’d like some great books on basketball to go with it?   Here’s a list of recommendations:   http://www.thehawaiiproject.com/list/Basketball-Books–SXIR8GGjPC   ","categories": ["books"],
+        "excerpt":"Are you watching March Madness?   Maybe you’d like some great books on basketball to go with it?   Here’s a list of recommendations:   https://www.thehawaiiproject.com/list/Basketball-Books–SXIR8GGjPC   ","categories": ["books"],
         "tags": ["basketball","books","march-madness"],
         "url": "/2016/03/18/march-madness-books/",
         "teaser": null
@@ -228,7 +228,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Books about female spies",
-        "excerpt":"Inspired by my reading The Girl Who Fell From The Sky, the first espionage book I’ve read with a female protagonist, I did some research on books with female spies in them. http://www.thehawaiiproject.com/list/Female-Spies–DgjoXV5zWE Literary star Ian McEwan weighs in with Sweet Tooth, probably the best known of the lot. http://www.thehawaiiproject.com/list/Female-Spies–DgjoXV5zWE...","categories": ["books"],
+        "excerpt":"Inspired by my reading The Girl Who Fell From The Sky, the first espionage book I’ve read with a female protagonist, I did some research on books with female spies in them. https://www.thehawaiiproject.com/list/Female-Spies–DgjoXV5zWE Literary star Ian McEwan weighs in with Sweet Tooth, probably the best known of the lot. https://www.thehawaiiproject.com/list/Female-Spies–DgjoXV5zWE...","categories": ["books"],
         "tags": ["book-review","books","espionage"],
         "url": "/2016/04/06/books-about-female-spies/",
         "teaser": null

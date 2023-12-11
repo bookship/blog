@@ -17,7 +17,7 @@ A new design for The Hawaii Project
 
 I’ve just pushed live a pretty major update to the user interface and visual design for The Hawaii Project. (_Thanks to Jim Fell for his visual mockup that drove most of the changes to the design. His conversations were immensely helpful. All mistakes and ugliness are, of course, mine._)
 
-As a reminder, [The Hawaii Project](http://www.thehawaiiproject.com) brings you books and book news you’d never have found on your own. We track what the web’s leading tastemakers and book reviewers are writing about, uncovering things that match your favorite authors, personal interests and current events, and bring them to you daily. [10% of our revenue goes to support 3 great literacy non-profits.](http://www.thehawaiiproject.com/accountlevels)
+As a reminder, [The Hawaii Project](https://www.thehawaiiproject.com) brings you books and book news you’d never have found on your own. We track what the web’s leading tastemakers and book reviewers are writing about, uncovering things that match your favorite authors, personal interests and current events, and bring them to you daily. [10% of our revenue goes to support 3 great literacy non-profits.](https://www.thehawaiiproject.com/accountlevels)
 
 I had a few main goals with the redesign:
 
@@ -27,7 +27,7 @@ I had a few main goals with the redesign:
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/c026c-1mg98baaumlhf91qxcd73jw.png)
 
-The Hawaii Project works by scanning almost a thousand high quality web sources of writing about books. Everything from [The New York Times book reviews](http://www.thehawaiiproject.com/source/NYT-Books--16) to [author blogs](http://www.thehawaiiproject.com/source/author_Thomas-W.-Jensen--408) to niche blogs about special topics, like [espionage books](http://www.thehawaiiproject.com/source/Double-O-Section--165), politics or medieval history. It was clear people weren’t getting that, nor were they really aware there were “stories” at all in the system. That is a key differentiator, so it needed to become more obvious.
+The Hawaii Project works by scanning almost a thousand high quality web sources of writing about books. Everything from [The New York Times book reviews](https://www.thehawaiiproject.com/source/NYT-Books--16) to [author blogs](https://www.thehawaiiproject.com/source/author_Thomas-W.-Jensen--408) to niche blogs about special topics, like [espionage books](https://www.thehawaiiproject.com/source/Double-O-Section--165), politics or medieval history. It was clear people weren’t getting that, nor were they really aware there were “stories” at all in the system. That is a key differentiator, so it needed to become more obvious.
 
 I radically simplified the Navigation bar so that “Books” and “Stories” were prominent, and introduced a “Recent Stories” panel into the Books page - showing images and snippets from a few stories, as well as highlighting the source of story via text and a logo, with a rollover highlight on the book mentioned in the story.
 

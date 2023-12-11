@@ -16,4 +16,4 @@ Maybe you’d like some great books on basketball to go with it?
 
 Here’s a list of recommendations:
 
-{% include card.html link="http://www.thehawaiiproject.com/list/Basketball-Books--SXIR8GGjPC" %}
+{% include card.html link="https://www.thehawaiiproject.com/list/Basketball-Books--SXIR8GGjPC" %}

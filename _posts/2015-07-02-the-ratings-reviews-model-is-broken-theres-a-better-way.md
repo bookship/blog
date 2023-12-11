@@ -29,7 +29,7 @@ There’s a lot of money at stake based on the outcome and incentives are skewed
 
 As a result, the “ratings & reviews” method of discovery and decision making is breaking down.
 
-It’s not just restaurants and hotels. Closer to home for [The Hawaii Project](http://www.thehawaiiproject.com), the Books world has seen a number of scandals around purchased or fake book reviews, with a number of companies in the business of getting more reviews for a book (and they’re not going to be bad reviews!).
+It’s not just restaurants and hotels. Closer to home for [The Hawaii Project](https://www.thehawaiiproject.com), the Books world has seen a number of scandals around purchased or fake book reviews, with a number of companies in the business of getting more reviews for a book (and they’re not going to be bad reviews!).
 
 And even if the reviews aren’t fake, there’s an even deeper issue. They just aren’t that helpful in the end. Unless I have a relationship with the reviewer, I don’t know how to evaluate their review — do they share my tastes and values? No way to tell. They may not like something, not because it’s intrinsically bad, but just because it’s not for them. JoJo Moyes’ book **Me Before You** is rated 4.3/5.0 on Goodreads, with over 215,000 ratings and 30,000 reviews. Is it a good book? Probably so. Will I like it? Probably not. But I’m sure as hell not going to read 30,000 reviews to find out!
 
@@ -47,7 +47,7 @@ Imagine if every day you could read what all the great curators and _trusted_ re
 
 Systems that perform this “Personalized Curation” for you will become the norm over the next few years. People don’t have time to ready everything — there’s an explosion of content out there. You need some kind of agent who can assimilate all of that, and bring you the relevant bits. Because of the complexity of the problem, these agents will be domain specific. Music. Books. Movies. News. Hotels. And they will be contextual and pro-active. They’ll know you’re at the airport and need a great book for the flight, and bring it to you. They’ll know your wife’s birthday is coming up and bring you some great restaurant ideas.
 
-This is beginning to happen. You can see the beginnings of it in music with Apple Beats and Shuffler.FM. Flipboard has been nosing around this for News for some time. And at [The Hawaii Project](http://www.thehawaiiproject.com), we’re doing it for books. If you’re looking for great books read, give us a whirl!
+This is beginning to happen. You can see the beginnings of it in music with Apple Beats and Shuffler.FM. Flipboard has been nosing around this for News for some time. And at [The Hawaii Project](https://www.thehawaiiproject.com), we’re doing it for books. If you’re looking for great books read, give us a whirl!
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/aac94-1qow-ggo5gykocycn_gfnca.jpeg)
 

@@ -45,4 +45,4 @@ Subscription services need to bring more value to readers than just “all you c
 
 The key is, a simple all-you-can-eat reading environment isn’t enough, not at ~$10 a month. If it’s $10 a year, no problem — but that won’t support the publishers.
 
-(btw: at [The Hawaii Project](http://www.thehawaiiproject.com) we’re tackling #2 and #3, check us out).
+(btw: at [The Hawaii Project](https://www.thehawaiiproject.com) we’re tackling #2 and #3, check us out).

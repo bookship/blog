@@ -21,9 +21,9 @@ Let’s face it — there’s an ocean of books out there and it’s hard to
 
 Imagine a company that gave back 10% of all their revenue to support reading and literacy.
 
-Welcome to [The Hawaii Project.](http://www.thehawaiiproject.com/kickstarter)
+Welcome to [The Hawaii Project.](https://www.thehawaiiproject.com/kickstarter)
 
-We started The Hawaii Project to do all that and more. We’re launching today, with a campaign on [Kickstarter](http://www.thehawaiiproject.com/kickstarter) to get The Hawaii Project off the ground. Join us and Do Good by Reading Well.
+We started The Hawaii Project to do all that and more. We’re launching today, with a campaign on [Kickstarter](https://www.thehawaiiproject.com/kickstarter) to get The Hawaii Project off the ground. Join us and Do Good by Reading Well.
 
 In spite of all the energy invested in the online world of books, book discovery online in still broken. People still discover new books offline, through friends and physical bookstores. Online, unless you’re looking for a best-seller, you’re pretty much left to sort through a pile of a gazillion ratings and reviews. (Seriously — [City of Bones](https://www.goodreads.com/book/show/256683.City_of_Bones) has 40,000 reviews and a 4.1 star rating — what am I going to do, read all 40,000 reviews to see if I’ll like it?)
 

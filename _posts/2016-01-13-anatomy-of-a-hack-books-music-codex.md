@@ -25,7 +25,7 @@ And write why Books & Music go together like Wine & Chocolate.
 
 So when this hackathon came along, the juices had been flowing for awhile and I knew what I wanted to do. Build an environment where people could collaboratively build and share music playlists for their favorite books.
 
-I had the basic idea framed out in my head. I’d use the Spotify web player and hack up a branch of [http://www.thehawaiiproject.com](http://www.thehawaiiproject.com) to become the new thing. Seemed like a layup, all their Web APIs are sitting right there. Spotify has a feature for “collaborative playlists” - what could go wrong, right?
+I had the basic idea framed out in my head. I’d use the Spotify web player and hack up a branch of [https://www.thehawaiiproject.com](https://www.thehawaiiproject.com) to become the new thing. Seemed like a layup, all their Web APIs are sitting right there. Spotify has a feature for “collaborative playlists” - what could go wrong, right?
 
 After some presentations from sponsors (I was a sponsor, here was my pitch for [The Hawaii Project](http://www.slideshare.net/viking2917/the-hawaii-project-codex-2016-hackathon)), we get down to it, at 11am Saturday morning.
 

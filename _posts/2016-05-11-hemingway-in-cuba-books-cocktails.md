@@ -28,20 +28,20 @@ Recipe:
 
 There now. While you are sipping, check out this list:
 
-{% include card.html link="http://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
+{% include card.html link="https://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
 
 A couple of my personal favorites:
 
 As mentioned previously, **The Crook Factory** recounts Hemingway’s time in Cuba, when acted as a spy against the Nazis — seriously.
 
-{% include card.html link="http://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
+{% include card.html link="https://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
 
 **To Have and to Have Another** — a Hemingway cocktail companion.
 
-{% include card.html link="http://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
+{% include card.html link="https://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
 
 **Hemingway in Cuba**. A history of, well, Hemingway in Cuba.
 
-{% include card.html link="http://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
+{% include card.html link="https://www.thehawaiiproject.com/list/Hemingway--ltfrAi8q2d" %}
 
 Enjoy. Sip responsibly.

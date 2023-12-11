@@ -27,4 +27,4 @@ Sometimes, you just have to enjoy being in the water. I’m working my dream pro
 
 Enjoy being in the water. Keep pushing, don’t be satisfied, but enjoy being in the water.
 
-(The Hawaii Project finds great books you’d never find on your own. Check us out: [http://www.thehawaiiproject.com](http://www.thehawaiiproject.com/))
+(The Hawaii Project finds great books you’d never find on your own. Check us out: [https://www.thehawaiiproject.com](https://www.thehawaiiproject.com/))

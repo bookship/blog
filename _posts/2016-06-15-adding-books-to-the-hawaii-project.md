@@ -20,6 +20,6 @@ Drag this link to your bookmarks bar. ⟿ Add Book to THP. (this is what they ca
 
 Et voilá
 
-You can read more on [our FAQ](http://www.thehawaiiproject.com/faq#addabook).
+You can read more on [our FAQ](https://www.thehawaiiproject.com/faq#addabook).
 
 Enjoy!
