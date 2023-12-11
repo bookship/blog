@@ -19,7 +19,13 @@ coverImage: "876b0-1qf8r5jiekknjuk8yd4xi2w.jpeg"
 
 I stumbled into [The Book Bear](http://thebookbear.com) bookstore in West Brookfield, after an abortive attempt to acquire [Treehouse Beer](http://treehousebrew.com/) in Western Massachusetts, and a successful visit to [BT’s Smokehouse](http://btsmokehouse.com/) for some of the best barbecue in the Northeast. In the far back corner, hidden under a pile of other books I found an inexpensive copy of Casino Royale, the 1st James Bond book. The proprietor was perplexed the book hadn’t sold yet — I was amazed I’d even found it. Perspectives differ.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Casino-Royale-%28James-Bond%29--by--Ian-Fleming--23728" %}
+{% include card.html
+   title="Casino Royale"
+   description="In the novel that introduced James Bond to the world, Ian Fleming’s agent 007 is dispatched to a French casino in Royale-les-Eaux. His mission? Bankrupt a ruthless Russian agent who’s been on a bad luck streak at the baccarat table. One of SMERSH’s most deadly operatives, the man known only as “Le Chiffre,” has been a prime target of the British Secret Service for years. If Bond can wipe out his bankroll, Le Chiffre will likely be “retired” by his paymasters in Moscow. But what if the cards won’t cooperate? After a brutal night at the gaming tables, Bond soon finds himself dodging would-be assassins, fighting off brutal torturers, and going all-in to save the life of his beautiful female counterpart, Vesper Lynd. Taut, tense, and effortlessly stylish, Ian Fleming’s inaugural James Bond adventure has all the hallmarks that made the series a touchstone for a generation of readers.The text in this edition has been restored by the Fleming family company Ian Fleming Publications, to reflect the work as it was originally published.www.ianfleming.com"
+   link="https://www.thehawaiiproject.com/book/Casino-Royale-%28James-Bond%29--by--Ian-Fleming--23728"
+   image="https://images-na.ssl-images-amazon.com/images/I/51VnTxEna7L.jpg"
+%}
+
 
 The movie version of Casino Royale is among the best (perhaps the best) of the James Bond movies, in my book (no pun intended!). I was anxious to give it a go. It’s a great read, with a great opening line:
 

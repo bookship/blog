@@ -12,7 +12,13 @@ tags:
 
 After finishing Adam Sisman’s [gripping biography of John Le Carre](http://www.thehawaiiproject.com/book/John-le-Carre-The-Biography--by--Adam-Sisman--169198), as a seasoned reader of espionage fiction I realized I had a big gap — I’d not read Graham Greene. I decided to start with “Our Man in Havana”, a light-hearted (or mostly so) caper set in Cuba.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Our-Man-in-Havana-%28Penguin-Classics%29--by--Graham-Greene--21399" %}
+{% include card.html
+   title="Our Man in Havana"
+   description="A hapless salesman in Cuba is recruited into Cold War spy games in Greene’s classic “comical, satirical, atmospherical” novel (The Daily Telegraph). James Wormold, a cash-strapped vacuum cleaner salesman in Havana, finds the answer to his prayers when British Intelligence offers him a lucrative job as an undercover agent. To keep the checks coming, Wormold must at least pretend to know what he’s doing. Soon, he’s apparently deciphering incomprehensible codes, passing along sketches of secret weapons that look suspiciously like vacuum parts, and claiming to recruit fellow operatives from his country club, all to create the perfect picture of intrigue. But when MI6 dispatches a secretary to oversee his endeavors, Wormold fears his carelessly fabricated world will come undone. Instead, it all comes true. Somehow, he’s become the target of an assassin, and it’s going to take more than a fib to get out of Cuba alive. Her Majesty’s man in Havana may have to resort to spying. Named one of the 20 Best Spy Novels of All Time by the Telegraph and adapted into the classic 1959 comedy starring Alec Guinness, Our Man in Havana is “high-comic mayhem . . . weirdly undated . . . [and] bizarrely prescient” (Christopher Buckley, New York Times–bestselling author)."
+   link="https://www.thehawaiiproject.com/book/Our-Man-in-Havana-%28Penguin-Classics%29--by--Graham-Greene--21399"
+   image="https://images-na.ssl-images-amazon.com/images/I/51JCfPeCGJL.jpg"
+%}
+
 
 Greene’s Cuba is by turns comical and threatening. His tone swings from lyrical to prosaic with in a sentence, and paints a loving portrait of the city:
 

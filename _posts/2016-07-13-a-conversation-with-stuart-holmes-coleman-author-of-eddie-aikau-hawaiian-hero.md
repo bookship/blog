@@ -39,7 +39,13 @@ Rap Reiplinger. He was so funny. 1970s Hawaiian humor, everyone knew his skits b
 
 _Your most recent book is_ [_Eddie Aikau: Hawaiian Hero_](http://www.amazon.com/Eddie-Aikau-Stuart-Holmes-Coleman/dp/1573065153%3FSubscriptionId%3DAKIAIKMVYJ6MJU6ROZYQ%26tag%3Dcodexmap-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D1573065153)_. You very comprehensively explored Eddie’s life in_ [_Eddie Would Go_](http://www.amazon.com/Eddie-Would-Go-Hawaiian-Pioneer/dp/0312327188%3FSubscriptionId%3DAKIAIKMVYJ6MJU6ROZYQ%26tag%3Dcodexmap-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0312327188)_. What prompted you to revisit Eddie’s life, and how is this book different than Eddie Would Go?_
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254" %}
+{% include card.html
+   title="Eddie Aikau"
+   description="A biography of the legendary Hawaiian waterman. As a fearless young man, Eddie Aikau surfed some of the largest waves ever ridden at Waimea Bay. He became one of the first lifeguards on the North Shore, where he saved hundreds of lives and was known for his courage and commitment to helping others. Most people would be satisfied to earn such renown as a big-wave rider and lifeguard. But as a proud Hawaiian with a restless spirit, Aikau kept searching for ways to rediscover his heritage and culture. Then, he saw Hokulea and instantly knew that his fate was tied to the double-hulled voyaging canoe. Eddie Aikau disappeared at sea almost four decades ago, but his spirit of self-discovery continues to inspire Hawaiians, the international surfing community, and all those seeking to reconnect to their culture. His memory lives on in the Hokulea Worldwide Voyages and in the Eddie, the unique big-wave contest that honors his courage and sacrifice."
+   link="https://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254"
+   image="https://images-na.ssl-images-amazon.com/images/I/51XWBUqDNfL.jpg"
+%}
+
 
 It’s a shorter version of the story of Eddie, this amazing Hawaiian Waterman who help define modern Hawaiian culture. I wanted to reach a different scope of people. From visitors to the islands, to both younger people and older people, who want to know who Eddie was, but maybe aren’t ready to commit to a 270 page biography.
 
@@ -55,7 +61,13 @@ _Maybe what I’m noticing is that it was a time when the internet wasn’t perv
 
 That’s a good point. Hawaiians have often said this to me— it came up a lot in the writing of [Fierce Heart](http://www.thehawaiiproject.com/book/Fierce-Heart-The-Story-of-Makaha-and-the-Soul-of-Hawaiian-Surfing--by--Stuart-Holmes-Coleman--182309) — they’d say, _we’d scrap (fight) with these guys, and then be singing songs and having beers with them afterwards_. You dealt with it, it was very personal, and face to face, and then move on. Now everything’s under the surface. Then, you scrapped and it was over. A lot of _haoles_ couldn’t get used to that. It’s a lot less healthy to keep it suppressed.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254" %}
+{% include card.html
+   title="Eddie Aikau"
+   description="A biography of the legendary Hawaiian waterman. As a fearless young man, Eddie Aikau surfed some of the largest waves ever ridden at Waimea Bay. He became one of the first lifeguards on the North Shore, where he saved hundreds of lives and was known for his courage and commitment to helping others. Most people would be satisfied to earn such renown as a big-wave rider and lifeguard. But as a proud Hawaiian with a restless spirit, Aikau kept searching for ways to rediscover his heritage and culture. Then, he saw Hokulea and instantly knew that his fate was tied to the double-hulled voyaging canoe. Eddie Aikau disappeared at sea almost four decades ago, but his spirit of self-discovery continues to inspire Hawaiians, the international surfing community, and all those seeking to reconnect to their culture. His memory lives on in the Hokulea Worldwide Voyages and in the Eddie, the unique big-wave contest that honors his courage and sacrifice."
+   link="https://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254"
+   image="https://images-na.ssl-images-amazon.com/images/I/51XWBUqDNfL.jpg"
+%}
+
 
 _How did writing Eddie lead to writing Fierce Heart, your book about Makaha and the west side of Oahu?_
 

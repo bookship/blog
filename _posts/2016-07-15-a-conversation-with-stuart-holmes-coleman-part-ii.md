@@ -13,7 +13,13 @@ coverImage: "5fff1-10evc_hnrepmwj1_8kglz5g.jpeg"
 
 (this is a continuation of our conversation with Stuart Holmes Coleman, author of Eddie Aikau: Hawaiian Hero, Fierce Heart, and Eddie Would Go. You can find [part I here](https://medium.com/@thehawaiiproj/a-conversation-with-stuart-holmes-coleman-author-of-eddie-aikau-hawaiian-hero-35e5877c12bd#.3o9utxa3u).)
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254" %}
+{% include card.html
+   title="Eddie Aikau"
+   description="A biography of the legendary Hawaiian waterman. As a fearless young man, Eddie Aikau surfed some of the largest waves ever ridden at Waimea Bay. He became one of the first lifeguards on the North Shore, where he saved hundreds of lives and was known for his courage and commitment to helping others. Most people would be satisfied to earn such renown as a big-wave rider and lifeguard. But as a proud Hawaiian with a restless spirit, Aikau kept searching for ways to rediscover his heritage and culture. Then, he saw Hokulea and instantly knew that his fate was tied to the double-hulled voyaging canoe. Eddie Aikau disappeared at sea almost four decades ago, but his spirit of self-discovery continues to inspire Hawaiians, the international surfing community, and all those seeking to reconnect to their culture. His memory lives on in the Hokulea Worldwide Voyages and in the Eddie, the unique big-wave contest that honors his courage and sacrifice."
+   link="https://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254"
+   image="https://images-na.ssl-images-amazon.com/images/I/51XWBUqDNfL.jpg"
+%}
+
 
 _You’re a passionate surfer. Which came first, your love of surfing or your desire to write this book? Would it have been possible to write this book without being a surfer?_
 
@@ -33,7 +39,13 @@ Wallace J. Nichols in his book [Blue Mind](http://www.thehawaiiproject.com/book/
 
 _Eddie Would Go is your first book. How did writing Eddie Would Go change you? What did you take away from it?_
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254" %}
+{% include card.html
+   title="Eddie Aikau"
+   description="A biography of the legendary Hawaiian waterman. As a fearless young man, Eddie Aikau surfed some of the largest waves ever ridden at Waimea Bay. He became one of the first lifeguards on the North Shore, where he saved hundreds of lives and was known for his courage and commitment to helping others. Most people would be satisfied to earn such renown as a big-wave rider and lifeguard. But as a proud Hawaiian with a restless spirit, Aikau kept searching for ways to rediscover his heritage and culture. Then, he saw Hokulea and instantly knew that his fate was tied to the double-hulled voyaging canoe. Eddie Aikau disappeared at sea almost four decades ago, but his spirit of self-discovery continues to inspire Hawaiians, the international surfing community, and all those seeking to reconnect to their culture. His memory lives on in the Hokulea Worldwide Voyages and in the Eddie, the unique big-wave contest that honors his courage and sacrifice."
+   link="https://www.thehawaiiproject.com/book/Eddie-Aikau-Hawaiian-Hero--by--Stuart-Holmes-Coleman--207254"
+   image="https://images-na.ssl-images-amazon.com/images/I/51XWBUqDNfL.jpg"
+%}
+
 
 They say, “Be careful that your first work is not a success”. In my case, it started with publishers being interested, but then they thought there wasn’t a big enough audience, so I ended up self-publishing. It ended up working — I traveled all around Hawaii and both coasts of the mainland. Through sheer persistence, it’s become a successful book and a perennial best seller. That was hard, and I learned a lot about being self-sufficient from that. But it’s hard to follow up something like that, especially because the subject matter was so fascinating and legendary.
 

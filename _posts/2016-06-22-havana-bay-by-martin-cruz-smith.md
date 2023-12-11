@@ -19,7 +19,13 @@ Arkady Renko might be my most favorite fictional detective. Equal parts morose, 
 
 Arkady made his first appearance in [Gorky Park](http://www.thehawaiiproject.com/book/Gorky-Park-%28Arkady-Renko-No.-1%29--by--Martin-Cruz-Smith--40596), first the book and then the movie. During a recent trip to Pinehurst, NC, I recently discovered that I had missed one of the earlier books in the series, [Havana Bay](http://www.thehawaiiproject.com/book/Havana-Bay-A-Novel-%28William-Monk%29--by--Martin-Cruz-Smith--97959), and scooped it up from [Given Books](https://www.facebook.com/Given-Book-Shop-114431848588486/).
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Havana-Bay-A-Novel-%28William-Monk%29--by--Martin-Cruz-Smith--97959" %}
+{% include card.html
+   title="Havana Bay"
+   description="When the corpse of a Russian is hauled from the oily waters of Havana Bay, Arkady Renko comes to Cuba to identify the body. Looking for the killer, he discovers a city of faded loneliness, unexpected danger, and bewildering contradictions. His investigation introduces him to a beautiful Cuban policewoman; to the rituals of Santeria; to an American fugitive and a group of ruthless mercenaries. In this place where all things Russian are despised, where Hemingway fished and the KGB flourished, where the hint of music is always in the air, Arkady finds a trail of deceit that reaches halfway around the world–and a reason to relish his own life again.From the Paperback edition."
+   link="https://www.thehawaiiproject.com/book/Havana-Bay-A-Novel-%28William-Monk%29--by--Martin-Cruz-Smith--97959"
+   image="https://images-na.ssl-images-amazon.com/images/I/51Pm3pZLHoL.jpg"
+%}
+
 
 Arkady is sent to Cuba to investigate the apparent death of his friend Pribluda, and he’s at the harbor to identify a body, presumably Pribluda’s. This is the era when Russia had stopped funding Cuba, and Russians aren’t so welcome there, especially when they are prying. Detective Ofelio Osorio is the female detective working on the case. “_A dead Russian, a live Russian, what’s the difference?_”, she spits out, mirroring the attitudes of most Cubans of the time towards Russians. Arkady and his creator Martin Cruz Smith both have that wonderful black humor shared by soldiers and policeman.
 

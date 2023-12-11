@@ -25,6 +25,12 @@ While popular culture places Mata Hari as spy, in this telling of her story she 
 
 I also very much enjoyed Edouard Clunet, Mata Hari’s long-suffering booking agent, who helped create her persona and early success. The Edouard of the book seems an amalgam of the historical Edouard, who defended her at her trial, and Gabriel Astruc, her booking agent. The interplay between the Edouard and Mata Hari carried the book forward strongly, and the merger of Edouard and Gabriel into one character definitely serves the larger story line.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Mata-Haris-Last-Dance-A-Novel--by--Michelle-Moran--201238" %}
+{% include card.html
+   title="Mata Hari’s Last Dance"
+   description="From the international bestselling author of Rebel Queen and Nefertiti comes a captivating novel about the infamous Mata Hari, exotic dancer, adored courtesan, and, possibly, relentless spy.Paris, 1917. The notorious dancer Mata Hari sits in a cold cell awaiting freedom…or death. Alone and despondent, Mata Hari is as confused as the rest of the world about the charges she’s been arrested on: treason leading to the deaths of thousands of French soldiers. As Mata Hari waits for her fate to be decided, she relays the story of her life to a reporter who is allowed to visit her in prison. Beginning with her carefree childhood, Mata Hari recounts her father’s cruel abandonment of her family as well her calamitous marriage to a military officer. Taken to the island of Java, Mata Hari refuses to be ruled by her abusive husband and instead learns to dance, paving the way to her stardom as Europe’s most infamous dancer. From exotic Indian temples and glamorous Parisian theatres to stark German barracks in war-torn Europe, international bestselling author Michelle Moran who “expertly balances fact and fiction” (Associated Press) brings to vibrant life the famed world of Mata Hari: dancer, courtesan, and possibly, spy."
+   link="https://www.thehawaiiproject.com/book/Mata-Haris-Last-Dance-A-Novel--by--Michelle-Moran--201238"
+   image="https://images-na.ssl-images-amazon.com/images/I/51RoDo-wywL.jpg"
+%}
+
 
 As with any historical novel, there is some play with the precise historical details, and in the case of Mata Hari much is still not known or debated. But Moran’s portrayal of her character and motivations is utterly convincing. Historical fiction is an accessible way to learn history, and if you are at all intrigued by one of history’s most famous and scandalous women, you will enjoy Mata Hari’s Last Dance.

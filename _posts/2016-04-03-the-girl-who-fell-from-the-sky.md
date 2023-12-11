@@ -21,6 +21,12 @@ The Girl Who Fell from the Sky is much more in the vein of Alan Furst than Le Ca
 
 I really enjoyed this book (although “as good as Le Carré” might be over-stating things) — I’m very much looking forward to Tightrope, the sequel.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Tightrope--by--Simon-Mawer--152923" %}
+{% include card.html
+   title="Tightrope"
+   description="From the author of the best-selling and Booker Prize–shortlisted The Glass Room and TrapezeAn historical thriller that brings back Marian Sutro, ex-Special Operations agent, and traces her romantic and political exploits in post-World War II London, where the Cold War is about to reshape old loyalties As Allied forces close in on Berlin in spring 1945, a solitary figure emerges from the wreckage that is Germany. It is Marian Sutro, whose existence was last known to her British controllers in autumn 1943 in Paris. One of a handful of surviving agents of the Special Operations Executive, she has withstood arrest, interrogation, incarceration, and the horrors of Ravensbrück concentration camp, but at what cost? Returned to an England she barely knows and a postwar world she doesn’t understand, Marian searches for something on which to ground the rest of her life. Family and friends surround her, but she is haunted by her experiences and by the guilt of knowing that her contribution to the war effort helped lead to the monstrosities of Hiroshima and Nagasaki. When the mysterious Major Fawley, the man who hijacked her wartime mission to Paris, emerges from the shadows to draw her into the ambiguities and uncertainties of the Cold War, she sees a way to make amends for the past and at the same time to find the identity that has never been hers. A novel of divided loyalties and mixed motives, Tightrope is the complex and enigmatic story of a woman whose search for personal identity and fulfillment leads her to shocking choices."
+   link="https://www.thehawaiiproject.com/book/Tightrope--by--Simon-Mawer--152923"
+   image="https://images-na.ssl-images-amazon.com/images/I/41bighKwrGL.jpg"
+%}
+
 
 (Note: The Girl Who Fell from the Sky was published in the UK; it appeared in the US under the title Trapeze — not sure why they ditched such an awesome title).

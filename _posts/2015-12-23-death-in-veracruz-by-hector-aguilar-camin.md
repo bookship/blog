@@ -12,7 +12,13 @@ tags:
 
 As part of my continuing test of [Scribd](http://www.scribd.com)’s subscription ebooks service, I stumbled on Héctor Aguilar Camín’s [Death in Veracruz](http://www.thehawaiiproject.com/book/Death-in-Veracruz-A-Novel--by--Hector-Aguilar-Camin--172094). Set in the ‘60s and ‘70s during the ascent of Mexico’s oil industry, A Death in Veracruz is a classic of Latin literature, only recently translated ably into English by Chandler Thompson.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Death-in-Veracruz-A-Novel--by--Hector-Aguilar-Camin--172094" %}
+{% include card.html
+   title="Death in Veracruz"
+   description="This novel marks the long-awaited arrival—in English—of a masterful voice in Mexican and noir fiction Death in Veracruz is a gritty and atmospheric noir centered on the so-called oil wars of the late 1970s, which pitted the extremely powerful and corrupt government-owned oil cartel PEMEX against the agrarian landowners in the coastal regions of Southern Mexico. This novel, translated for the first time in English since its publication 30 years ago, concerns a journalist who investigates the death of a colleague and friend Rojano in a bizarre shooting incident that takes place in a small rural village, and who finds himself up against crooked police and a charismatic and ruthless union boss . But, as he gets deeper into this Mexican Heart of Darkness, he finds Rojano was not all he seemed, and neither was his widow with whom he falls into a doomed affair."
+   link="https://www.thehawaiiproject.com/book/Death-in-Veracruz-A-Novel--by--Hector-Aguilar-Camin--172094"
+   image="https://images-na.ssl-images-amazon.com/images/I/51ekeLXxdnL.jpg"
+%}
+
 
 Amongst the conflict, graft, corruption and collusion between PEMEX (Mexico’s corrupt government-owned oil company) and the powerful Oil Workers labor union, our narrator (simply called by his nickname, Negro) is an investigative journalist specializing in sticking his nose where it doesn’t belong. His lifelong friend Rojano is an aspiring politician and landowner, married to the stunning and willful Anabela. Negro has been in love with Anabela since his youth, but lost out to Rojano. But he remains in their orbit, as Rojano and Anabel slowly draw him into their schemes to rise in power.
 

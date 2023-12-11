@@ -11,7 +11,13 @@ tags:
 
 So, I’m reading [Distrust That Particular Flavor](http://www.thehawaiiproject.com/book/Distrust-That-Particular-Flavor--by--William-Gibson--63193) by William Gibson. In case you’ve been hiding under a rock for the last 20 years, Gibson is novelist who famously spawned the Cyberpunk movement and coined the term “cyberspace” in [Neuromancer](http://www.thehawaiiproject.com/book/Neuromancer--by--William-Gibson--63196), 30 years ago. And gone on to write many thoughtful, wonderful books. While he’s inspired a generation of technologists, he doesn’t write much about startups. But Distrust That Particular Flavor (his only non-fiction book) has some interesting insights on the startup process (it’s packed with non-startupy insights as well!).
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Distrust-That-Particular-Flavor--by--William-Gibson--63193" %}
+{% include card.html
+   title="Distrust That Particular Flavor"
+   description="Though primarily known as a novelist, over thirty years William Gibson has also built up a reputation as one of our most entertaining and insightful critics of contemporary culture. He is widely credited with having described the internet and cyberspace before any such things existed.Distrust that Particular Flavor brings together for the first time his writings on a wide variety of contemporary subjects: the differing cultures of Japan and Singapore; music and the movies; what’s wrong with the internet; the interactive relationship between writers and readers; and many others. Also included in the book is a fascinating autobiographical sketch: his upbringing in the South, the early death of his parents and his escape into books; and the move to Canada to avoid the draft."
+   link="https://www.thehawaiiproject.com/book/Distrust-That-Particular-Flavor--by--William-Gibson--63193"
+   image="https://images-na.ssl-images-amazon.com/images/I/51Ok4B8QzwL.jpg"
+%}
+
 
 Why do serial entrepreneurs do it? Who puts themself through all that pain by choice, knowing the odds are they’ll fail? Gibson, although he’s writing about writing for a living, has the answer, which utterly captures the joy of a piece of working code or a business that’s starting to work:
 

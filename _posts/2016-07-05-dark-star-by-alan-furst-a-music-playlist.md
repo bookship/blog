@@ -23,6 +23,12 @@ https://open.spotify.com/user/thehawaiiproject/playlist/5ZzHDp6AIt1meqYoMCjOaP
 
 You can read more about the book on The Hawaii Project, and see the playlist, and add your own, here: [Dark Star](http://www.thehawaiiproject.com/book/Dark-Star-A-Novel--by--Alan-Furst--80720).
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Dark-Star-A-Novel--by--Alan-Furst--80720" %}
+{% include card.html
+   title="Dark Star"
+   description="Offers a view of the dangerous, shabby, Stalinist-era world of Andre Szara, a Polish Jew, “Pravda” correspondent, and occasional NKVD operative who discovers a secret that becomes both an opportunity and a threat for him"
+   link="https://www.thehawaiiproject.com/book/Dark-Star-A-Novel--by--Alan-Furst--80720"
+   image="https://images-na.ssl-images-amazon.com/images/I/41UaSVZFB3L.jpg"
+%}
+
 
 To see all our books with playlist, head over to [this link](http://www.thehawaiiproject.com/channel/best--book-music-playlists--books).

@@ -37,4 +37,10 @@ Where simple sails take on a life of their own.
 
 A retelling of Jason and the Argonauts from Medea’s point of view, we see Jason as a faithless husband, a feckless hero, and Medea the woman scorned. The writing is all water and light and rage and blood and hate and stupidity, the gravitas of the writing equal to the depth of its mythical subject matter. If you are in the mood for deep myth, you won’t be disappointed.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Bright-Air-Black-A-Novel--by--David-Vann--249901" %}
+{% include card.html
+   title="Bright Air Black"
+   description="A writer to read and reread.”The EconomistFollowing the success of Aquarium which was a New York Times Editor’s Choice and garnered numerous rave reviews, David Vann transports us to 13th century B.C. to give a nuanced and electric portrait of the life of one of ancient mythology’s most fascinating and notorious women, Medea. In brilliant poetic prose Bright Air Black brings us aboard the ship Argo for its epic return journey across the Black Sea from Persia’s Colchiswhere Medea flees her home and father with Jason, the Argonauts, and the Golden Fleece. Vann’s reimagining of this ancient tale offers a thrilling, realist alternative to the long held notions of Medea as monster or sorceress. We witness with dramatic urgency Medea’s humanity, her Bronze Age roots and position in Greek society, her love affair with Jason, and her tragic demise. Atmospheric and spellbinding, Bright Air Black is an indispensable, fresh and provocative take on one of our earliest texts and the most intimate and corporal version of Medea’s story ever told."
+   link="https://www.thehawaiiproject.com/book/Bright-Air-Black-A-Novel--by--David-Vann--249901"
+   image="https://images-na.ssl-images-amazon.com/images/I/41YfPz2e5iL.jpg"
+%}
+

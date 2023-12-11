@@ -12,11 +12,23 @@ tags:
 
 On the plane down to my parents house for a visit, on the way out of the house I grab a random book for the plane out of my gargantuan TBR pile. It’s Snow Angels, by James Thompson. I honestly don’t even remember when or where I bought it. Nordic noir, from Finland. Thompson was an American living in Finland, who unfortunately died in 2014 at the age of 49.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Snow-Angels-%28Inspector-Vaara-Book-1%29--by--James-Thompson--26180" %}
+{% include card.html
+   title="Snow Angels"
+   description="A Booklist Best Crime Novel Debut Don’t miss this one.”USA Today “A masterful job.“ -Michael Connelly It is called kaamos--two weeks of unrelenting darkness and soul-numbing cold that falls upon Finnish Lapland, a hundred miles into the Arctic Circle, just before Christmas. Some get through it with the help of cheap Russian alcohol; some sink into depression. This year, it may have driven someone mad enough to commit murder. The brutalized body of a beautiful Somali woman has been found in the snow, and Inspector Kari Vaara must find her killer. It will be a challenge in a place where ugly things lurk under frozen surfaces, and silence is a way of life."
+   link="https://www.thehawaiiproject.com/book/Snow-Angels-%28Inspector-Vaara-Book-1%29--by--James-Thompson--26180"
+   image="https://images-na.ssl-images-amazon.com/images/I/51TLMvUr8TL.jpg"
+%}
+
 
 Snow Angels reminds me strongly of John Burdett’s wonderful Sonchai Jitpleecheep series set in Thailand, in that it gets well and truly inside the head of a different culture, and makes it both strange and accessible, and in the process delivering an intriguing mystery.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/Snow-Angels-%28Inspector-Vaara-Book-1%29--by--James-Thompson--26180" %}
+{% include card.html
+   title="Snow Angels"
+   description="A Booklist Best Crime Novel Debut Don’t miss this one.”USA Today “A masterful job.“ -Michael Connelly It is called kaamos--two weeks of unrelenting darkness and soul-numbing cold that falls upon Finnish Lapland, a hundred miles into the Arctic Circle, just before Christmas. Some get through it with the help of cheap Russian alcohol; some sink into depression. This year, it may have driven someone mad enough to commit murder. The brutalized body of a beautiful Somali woman has been found in the snow, and Inspector Kari Vaara must find her killer. It will be a challenge in a place where ugly things lurk under frozen surfaces, and silence is a way of life."
+   link="https://www.thehawaiiproject.com/book/Snow-Angels-%28Inspector-Vaara-Book-1%29--by--James-Thompson--26180"
+   image="https://images-na.ssl-images-amazon.com/images/I/51TLMvUr8TL.jpg"
+%}
+
 
 Snow Angels explores Finland, where the winter night can last months, drinking is endemic and suicides are common. Kari Vaara is chief of police investigating the horrific death of a beautiful Somali actress. Is it a hate crime, or something else?
 

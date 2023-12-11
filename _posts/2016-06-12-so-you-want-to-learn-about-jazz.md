@@ -20,8 +20,20 @@ https://open.spotify.com/user/viking2917/playlist/7jZS1eOs4879cWN4dPqJgs
 
 For non-fiction about Jazz, consider [But Beautiful](http://www.thehawaiiproject.com/book/But-Beautiful-A-Book-about-Jazz--by--Geoff-Dyer--20291) by Geoff Dyer or Max Gordon’s [stories from the Village Vanguard](http://www.thehawaiiproject.com/book/Live-At-The-Village-Vanguard-%28Da-Capo-Paperback%29--by--Max-Gordon--79908), the mecca of Jazz.
 
-{% include card.html link="http://www.thehawaiiproject.com/book/But-Beautiful-A-Book-about-Jazz--by--Geoff-Dyer--20291" %}
+{% include card.html
+   title="But Beautiful"
+   description="In eight poetically charged vignettes, Geoff Dyer skillfully evokes the music and the men who shaped modern jazz. Drawing on photos, anecdotes, and, most important, the way he hears the music, Dyer imaginatively reconstructs scenes from the embattled lives of some of the greats: Lester Young fading away in a hotel room; Charles Mingus storming down the streets of New York on a too-small bicycle; Thelonious Monk creating his own private language on the piano. However, music is the driving force of But Beautiful, and wildly metaphoric prose that mirrors the quirks, eccentricity, and brilliance of each musician’s style."
+   link="https://www.thehawaiiproject.com/book/But-Beautiful-A-Book-about-Jazz--by--Geoff-Dyer--20291"
+   image="https://images-na.ssl-images-amazon.com/images/I/51nToGXWa2L.jpg"
+%}
+
 
 Here’s a list of more great books about jazz — add your own!
 
-{% include card.html link="http://www.thehawaiiproject.com/book/But-Beautiful-A-Book-about-Jazz--by--Geoff-Dyer--20291" %}
+{% include card.html
+   title="But Beautiful"
+   description="In eight poetically charged vignettes, Geoff Dyer skillfully evokes the music and the men who shaped modern jazz. Drawing on photos, anecdotes, and, most important, the way he hears the music, Dyer imaginatively reconstructs scenes from the embattled lives of some of the greats: Lester Young fading away in a hotel room; Charles Mingus storming down the streets of New York on a too-small bicycle; Thelonious Monk creating his own private language on the piano. However, music is the driving force of But Beautiful, and wildly metaphoric prose that mirrors the quirks, eccentricity, and brilliance of each musician’s style."
+   link="https://www.thehawaiiproject.com/book/But-Beautiful-A-Book-about-Jazz--by--Geoff-Dyer--20291"
+   image="https://images-na.ssl-images-amazon.com/images/I/51nToGXWa2L.jpg"
+%}
+
