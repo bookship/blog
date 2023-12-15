@@ -1,6 +1,6 @@
 ---
 title: Recommendation-system
 layout: tag
-permalink: /tags/recommendation-system
+permalink: /tag/recommendation-system
 taxonomy: recommendation-system
 ---

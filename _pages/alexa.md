@@ -1,6 +1,6 @@
 ---
 title: Alexa
 layout: tag
-permalink: /tags/alexa
+permalink: /tag/alexa
 taxonomy: alexa
 ---

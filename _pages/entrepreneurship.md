@@ -1,6 +1,6 @@
 ---
 title: Entrepreneurship
 layout: tag
-permalink: /tags/entrepreneurship
+permalink: /tag/entrepreneurship
 taxonomy: entrepreneurship
 ---

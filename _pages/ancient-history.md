@@ -1,6 +1,6 @@
 ---
 title: Ancient-history
 layout: tag
-permalink: /tags/ancient-history
+permalink: /tag/ancient-history
 taxonomy: ancient-history
 ---

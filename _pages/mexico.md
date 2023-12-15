@@ -1,6 +1,6 @@
 ---
 title: Mexico
 layout: tag
-permalink: /tags/mexico
+permalink: /tag/mexico
 taxonomy: mexico
 ---

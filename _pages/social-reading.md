@@ -1,6 +1,6 @@
 ---
 title: Social-reading
 layout: tag
-permalink: /tags/social-reading
+permalink: /tag/social-reading
 taxonomy: social-reading
 ---

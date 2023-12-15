@@ -1,6 +1,6 @@
 ---
 title: Mobile-apps
 layout: tag
-permalink: /tags/mobile-apps
+permalink: /tag/mobile-apps
 taxonomy: mobile-apps
 ---

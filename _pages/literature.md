@@ -1,6 +1,6 @@
 ---
 title: Literature
 layout: tag
-permalink: /tags/literature
+permalink: /tag/literature
 taxonomy: literature
 ---

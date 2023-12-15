@@ -1,6 +1,6 @@
 ---
 title: Goodreads
 layout: tag
-permalink: /tags/goodreads
+permalink: /tag/goodreads
 taxonomy: goodreads
 ---

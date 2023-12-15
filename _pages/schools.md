@@ -1,6 +1,6 @@
 ---
 title: Schools
 layout: tag
-permalink: /tags/schools
+permalink: /tag/schools
 taxonomy: schools
 ---

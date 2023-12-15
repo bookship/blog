@@ -1,6 +1,6 @@
 ---
 title: Travel
 layout: tag
-permalink: /tags/travel
+permalink: /tag/travel
 taxonomy: travel
 ---

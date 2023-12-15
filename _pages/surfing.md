@@ -1,6 +1,6 @@
 ---
 title: Surfing
 layout: tag
-permalink: /tags/surfing
+permalink: /tag/surfing
 taxonomy: surfing
 ---

@@ -1,6 +1,6 @@
 ---
 title: Women
 layout: tag
-permalink: /tags/women
+permalink: /tag/women
 taxonomy: women
 ---

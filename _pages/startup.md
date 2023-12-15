@@ -1,6 +1,6 @@
 ---
 title: Startup
 layout: tag
-permalink: /tags/startup
+permalink: /tag/startup
 taxonomy: startup
 ---

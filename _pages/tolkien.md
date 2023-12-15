@@ -1,6 +1,6 @@
 ---
 title: Tolkien
 layout: tag
-permalink: /tags/tolkien
+permalink: /tag/tolkien
 taxonomy: tolkien
 ---

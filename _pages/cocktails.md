@@ -1,6 +1,6 @@
 ---
 title: Cocktails
 layout: tag
-permalink: /tags/cocktails
+permalink: /tag/cocktails
 taxonomy: cocktails
 ---

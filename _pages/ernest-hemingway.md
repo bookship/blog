@@ -1,6 +1,6 @@
 ---
 title: Ernest-hemingway
 layout: tag
-permalink: /tags/ernest-hemingway
+permalink: /tag/ernest-hemingway
 taxonomy: ernest-hemingway
 ---

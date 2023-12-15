@@ -1,6 +1,6 @@
 ---
 title: Personalization
 layout: tag
-permalink: /tags/personalization
+permalink: /tag/personalization
 taxonomy: personalization
 ---

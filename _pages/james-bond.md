@@ -1,6 +1,6 @@
 ---
 title: James-bond
 layout: tag
-permalink: /tags/james-bond
+permalink: /tag/james-bond
 taxonomy: james-bond
 ---

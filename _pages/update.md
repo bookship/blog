@@ -1,6 +1,6 @@
 ---
 title: Update
 layout: tag
-permalink: /tags/update
+permalink: /tag/update
 taxonomy: update
 ---

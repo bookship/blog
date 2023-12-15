@@ -1,6 +1,6 @@
 ---
 title: Vikings
 layout: tag
-permalink: /tags/vikings
+permalink: /tag/vikings
 taxonomy: vikings
 ---

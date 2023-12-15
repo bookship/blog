@@ -1,6 +1,6 @@
 ---
 title: Jekyll
 layout: tag
-permalink: /tags/Jekyll
+permalink: /tag/Jekyll
 taxonomy: Jekyll
 ---

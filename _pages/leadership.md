@@ -1,6 +1,6 @@
 ---
 title: Leadership
 layout: tag
-permalink: /tags/leadership
+permalink: /tag/leadership
 taxonomy: leadership
 ---

@@ -1,6 +1,6 @@
 ---
 title: Cats
 layout: tag
-permalink: /tags/cats
+permalink: /tag/cats
 taxonomy: cats
 ---

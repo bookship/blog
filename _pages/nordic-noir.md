@@ -1,6 +1,6 @@
 ---
 title: Nordic-noir
 layout: tag
-permalink: /tags/nordic-noir
+permalink: /tag/nordic-noir
 taxonomy: nordic-noir
 ---

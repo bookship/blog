@@ -1,6 +1,6 @@
 ---
 title: Reading
 layout: tag
-permalink: /tags/reading
+permalink: /tag/reading
 taxonomy: reading
 ---

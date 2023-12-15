@@ -1,6 +1,6 @@
 ---
 title: Social-entrepreneurship
 layout: tag
-permalink: /tags/social-entrepreneurship
+permalink: /tag/social-entrepreneurship
 taxonomy: social-entrepreneurship
 ---

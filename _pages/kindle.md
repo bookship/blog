@@ -1,6 +1,6 @@
 ---
 title: Kindle
 layout: tag
-permalink: /tags/kindle
+permalink: /tag/kindle
 taxonomy: kindle
 ---

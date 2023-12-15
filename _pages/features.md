@@ -1,6 +1,6 @@
 ---
 title: Features
 layout: tag
-permalink: /tags/features
+permalink: /tag/features
 taxonomy: features
 ---

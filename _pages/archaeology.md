@@ -1,6 +1,6 @@
 ---
 title: Archaeology
 layout: tag
-permalink: /tags/archaeology
+permalink: /tag/archaeology
 taxonomy: archaeology
 ---

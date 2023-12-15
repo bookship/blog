@@ -1,6 +1,6 @@
 ---
 title: Rome
 layout: tag
-permalink: /tags/rome
+permalink: /tag/rome
 taxonomy: rome
 ---

@@ -1,6 +1,6 @@
 ---
 title: Drones
 layout: tag
-permalink: /tags/drones
+permalink: /tag/drones
 taxonomy: drones
 ---

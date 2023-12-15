@@ -1,6 +1,6 @@
 ---
 title: Hawaii
 layout: tag
-permalink: /tags/hawaii
+permalink: /tag/hawaii
 taxonomy: hawaii
 ---

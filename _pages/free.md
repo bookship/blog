@@ -1,6 +1,6 @@
 ---
 title: Free
 layout: tag
-permalink: /tags/free
+permalink: /tag/free
 taxonomy: free
 ---

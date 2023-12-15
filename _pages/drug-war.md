@@ -1,6 +1,6 @@
 ---
 title: Drug-war
 layout: tag
-permalink: /tags/drug-war
+permalink: /tag/drug-war
 taxonomy: drug-war
 ---

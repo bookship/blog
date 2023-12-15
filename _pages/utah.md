@@ -1,6 +1,6 @@
 ---
 title: Utah
 layout: tag
-permalink: /tags/utah
+permalink: /tag/utah
 taxonomy: utah
 ---

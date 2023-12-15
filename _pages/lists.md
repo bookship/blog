@@ -1,6 +1,6 @@
 ---
 title: Lists
 layout: tag
-permalink: /tags/lists
+permalink: /tag/lists
 taxonomy: lists
 ---

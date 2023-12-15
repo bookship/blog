@@ -1,6 +1,6 @@
 ---
 title: Culture
 layout: tag
-permalink: /tags/culture
+permalink: /tag/culture
 taxonomy: culture
 ---

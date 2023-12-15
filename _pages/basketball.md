@@ -1,6 +1,6 @@
 ---
 title: Basketball
 layout: tag
-permalink: /tags/basketball
+permalink: /tag/basketball
 taxonomy: basketball
 ---

@@ -1,6 +1,6 @@
 ---
 title: Boston
 layout: tag
-permalink: /tags/boston
+permalink: /tag/boston
 taxonomy: boston
 ---

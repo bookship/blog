@@ -1,6 +1,6 @@
 ---
 title: Playlist
 layout: tag
-permalink: /tags/playlist
+permalink: /tag/playlist
 taxonomy: playlist
 ---

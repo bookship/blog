@@ -1,6 +1,6 @@
 ---
 title: Politics
 layout: tag
-permalink: /tags/politics
+permalink: /tag/politics
 taxonomy: politics
 ---

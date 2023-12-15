@@ -1,6 +1,6 @@
 ---
 title: Pokemon
 layout: tag
-permalink: /tags/pokemon
+permalink: /tag/pokemon
 taxonomy: pokemon
 ---

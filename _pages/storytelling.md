@@ -1,6 +1,6 @@
 ---
 title: Storytelling
 layout: tag
-permalink: /tags/storytelling
+permalink: /tag/storytelling
 taxonomy: storytelling
 ---

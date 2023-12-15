@@ -1,6 +1,6 @@
 ---
 title: Quotes
 layout: tag
-permalink: /tags/quotes
+permalink: /tag/quotes
 taxonomy: quotes
 ---

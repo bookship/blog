@@ -1,6 +1,6 @@
 ---
 title: Curation
 layout: tag
-permalink: /tags/curation
+permalink: /tag/curation
 taxonomy: curation
 ---

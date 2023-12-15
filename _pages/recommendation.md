@@ -1,6 +1,6 @@
 ---
 title: Recommendation
 layout: tag
-permalink: /tags/recommendation
+permalink: /tag/recommendation
 taxonomy: recommendation
 ---

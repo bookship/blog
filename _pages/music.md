@@ -1,6 +1,6 @@
 ---
 title: Music
 layout: tag
-permalink: /tags/music
+permalink: /tag/music
 taxonomy: music
 ---

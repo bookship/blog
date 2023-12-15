@@ -1,6 +1,6 @@
 ---
 title: Movies
 layout: tag
-permalink: /tags/movies
+permalink: /tag/movies
 taxonomy: movies
 ---

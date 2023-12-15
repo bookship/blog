@@ -1,6 +1,6 @@
 ---
 title: Noir
 layout: tag
-permalink: /tags/noir
+permalink: /tag/noir
 taxonomy: noir
 ---

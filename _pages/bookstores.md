@@ -1,6 +1,6 @@
 ---
 title: Bookstores
 layout: tag
-permalink: /tags/bookstores
+permalink: /tag/bookstores
 taxonomy: bookstores
 ---

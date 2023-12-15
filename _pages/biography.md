@@ -1,6 +1,6 @@
 ---
 title: Biography
 layout: tag
-permalink: /tags/biography
+permalink: /tag/biography
 taxonomy: biography
 ---

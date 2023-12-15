@@ -1,6 +1,6 @@
 ---
 title: Technology
 layout: tag
-permalink: /tags/technology
+permalink: /tag/technology
 taxonomy: technology
 ---

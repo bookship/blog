@@ -1,6 +1,6 @@
 ---
 title: Urban-fantasy
 layout: tag
-permalink: /tags/urban-fantasy
+permalink: /tag/urban-fantasy
 taxonomy: urban-fantasy
 ---

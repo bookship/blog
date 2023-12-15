@@ -1,6 +1,6 @@
 ---
 title: Literacy
 layout: tag
-permalink: /tags/literacy
+permalink: /tag/literacy
 taxonomy: literacy
 ---

@@ -1,6 +1,6 @@
 ---
 title: Writing
 layout: tag
-permalink: /tags/writing
+permalink: /tag/writing
 taxonomy: writing
 ---

@@ -1,6 +1,6 @@
 ---
 title: Stoicism
 layout: tag
-permalink: /tags/stoicism
+permalink: /tag/stoicism
 taxonomy: stoicism
 ---

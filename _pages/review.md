@@ -1,6 +1,6 @@
 ---
 title: Review
 layout: tag
-permalink: /tags/review
+permalink: /tag/review
 taxonomy: review
 ---

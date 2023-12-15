@@ -1,6 +1,6 @@
 ---
 title: World-war-ii
 layout: tag
-permalink: /tags/world-war-ii
+permalink: /tag/world-war-ii
 taxonomy: world-war-ii
 ---

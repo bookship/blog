@@ -1,6 +1,6 @@
 ---
 title: Marcus-aurelius
 layout: tag
-permalink: /tags/marcus-aurelius
+permalink: /tag/marcus-aurelius
 taxonomy: marcus-aurelius
 ---

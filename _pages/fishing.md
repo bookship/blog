@@ -1,6 +1,6 @@
 ---
 title: Fishing
 layout: tag
-permalink: /tags/fishing
+permalink: /tag/fishing
 taxonomy: fishing
 ---

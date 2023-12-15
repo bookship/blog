@@ -1,6 +1,6 @@
 ---
 title: Subscription
 layout: tag
-permalink: /tags/subscription
+permalink: /tag/subscription
 taxonomy: subscription
 ---

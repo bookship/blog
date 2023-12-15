@@ -1,6 +1,6 @@
 ---
 title: Tbr
 layout: tag
-permalink: /tags/tbr
+permalink: /tag/tbr
 taxonomy: tbr
 ---

@@ -1,6 +1,6 @@
 ---
 title: History
 layout: tag
-permalink: /tags/history
+permalink: /tag/history
 taxonomy: history
 ---

@@ -1,6 +1,6 @@
 ---
 title: Interview
 layout: tag
-permalink: /tags/interview
+permalink: /tag/interview
 taxonomy: interview
 ---

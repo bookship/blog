@@ -1,6 +1,6 @@
 ---
 title: Scribd
 layout: tag
-permalink: /tags/scribd
+permalink: /tag/scribd
 taxonomy: scribd
 ---

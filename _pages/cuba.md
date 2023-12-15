@@ -1,6 +1,6 @@
 ---
 title: Cuba
 layout: tag
-permalink: /tags/cuba
+permalink: /tag/cuba
 taxonomy: cuba
 ---

@@ -1,6 +1,6 @@
 ---
 title: Italy
 layout: tag
-permalink: /tags/italy
+permalink: /tag/italy
 taxonomy: italy
 ---

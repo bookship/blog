@@ -1,6 +1,6 @@
 ---
 title: Creativity
 layout: tag
-permalink: /tags/creativity
+permalink: /tag/creativity
 taxonomy: creativity
 ---

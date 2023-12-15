@@ -1,6 +1,6 @@
 ---
 title: Ux
 layout: tag
-permalink: /tags/ux
+permalink: /tag/ux
 taxonomy: ux
 ---

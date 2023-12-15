@@ -1,6 +1,6 @@
 ---
 title: Eddie-aikau
 layout: tag
-permalink: /tags/eddie-aikau
+permalink: /tag/eddie-aikau
 taxonomy: eddie-aikau
 ---

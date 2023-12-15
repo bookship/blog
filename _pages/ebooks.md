@@ -1,6 +1,6 @@
 ---
 title: Ebooks
 layout: tag
-permalink: /tags/ebooks
+permalink: /tag/ebooks
 taxonomy: ebooks
 ---

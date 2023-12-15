@@ -1,6 +1,6 @@
 ---
 title: Gifts
 layout: tag
-permalink: /tags/gifts
+permalink: /tag/gifts
 taxonomy: gifts
 ---

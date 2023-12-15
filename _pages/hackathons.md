@@ -1,6 +1,6 @@
 ---
 title: Hackathons
 layout: tag
-permalink: /tags/hackathons
+permalink: /tag/hackathons
 taxonomy: hackathons
 ---

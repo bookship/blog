@@ -1,6 +1,6 @@
 ---
 title: Drought
 layout: tag
-permalink: /tags/drought
+permalink: /tag/drought
 taxonomy: drought
 ---

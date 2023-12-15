@@ -1,6 +1,6 @@
 ---
 title: Gift-guide
 layout: tag
-permalink: /tags/gift-guide
+permalink: /tag/gift-guide
 taxonomy: gift-guide
 ---

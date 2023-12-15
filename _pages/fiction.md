@@ -1,6 +1,6 @@
 ---
 title: Fiction
 layout: tag
-permalink: /tags/fiction
+permalink: /tag/fiction
 taxonomy: fiction
 ---

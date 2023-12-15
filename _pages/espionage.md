@@ -1,6 +1,6 @@
 ---
 title: Espionage
 layout: tag
-permalink: /tags/espionage
+permalink: /tag/espionage
 taxonomy: espionage
 ---

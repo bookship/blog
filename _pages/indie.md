@@ -1,6 +1,6 @@
 ---
 title: Indie
 layout: tag
-permalink: /tags/indie
+permalink: /tag/indie
 taxonomy: indie
 ---

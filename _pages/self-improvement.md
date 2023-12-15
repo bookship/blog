@@ -1,6 +1,6 @@
 ---
 title: Self-improvement
 layout: tag
-permalink: /tags/self-improvement
+permalink: /tag/self-improvement
 taxonomy: self-improvement
 ---

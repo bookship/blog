@@ -1,6 +1,6 @@
 ---
 title: Social-media
 layout: tag
-permalink: /tags/social-media
+permalink: /tag/social-media
 taxonomy: social-media
 ---

@@ -1,6 +1,6 @@
 ---
 title: Myth
 layout: tag
-permalink: /tags/myth
+permalink: /tag/myth
 taxonomy: myth
 ---

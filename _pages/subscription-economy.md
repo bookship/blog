@@ -1,6 +1,6 @@
 ---
 title: Subscription-economy
 layout: tag
-permalink: /tags/subscription-economy
+permalink: /tag/subscription-economy
 taxonomy: subscription-economy
 ---

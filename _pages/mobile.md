@@ -1,6 +1,6 @@
 ---
 title: Mobile
 layout: tag
-permalink: /tags/mobile
+permalink: /tag/mobile
 taxonomy: mobile
 ---

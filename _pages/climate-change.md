@@ -1,6 +1,6 @@
 ---
 title: Climate-change
 layout: tag
-permalink: /tags/climate-change
+permalink: /tag/climate-change
 taxonomy: climate-change
 ---

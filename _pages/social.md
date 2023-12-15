@@ -1,6 +1,6 @@
 ---
 title: Social
 layout: tag
-permalink: /tags/social
+permalink: /tag/social
 taxonomy: social
 ---

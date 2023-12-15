@@ -1,6 +1,6 @@
 ---
 title: Chatbots
 layout: tag
-permalink: /tags/chatbots
+permalink: /tag/chatbots
 taxonomy: chatbots
 ---

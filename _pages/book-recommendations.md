@@ -1,6 +1,6 @@
 ---
 title: Book-recommendations
 layout: tag
-permalink: /tags/book-recommendations
+permalink: /tag/book-recommendations
 taxonomy: book-recommendations
 ---

@@ -1,6 +1,6 @@
 ---
 title: Apps
 layout: tag
-permalink: /tags/apps
+permalink: /tag/apps
 taxonomy: apps
 ---

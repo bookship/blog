@@ -1,6 +1,6 @@
 ---
 title: Media
 layout: tag
-permalink: /tags/media
+permalink: /tag/media
 taxonomy: media
 ---

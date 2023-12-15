@@ -1,6 +1,6 @@
 ---
 title: Jazz
 layout: tag
-permalink: /tags/jazz
+permalink: /tag/jazz
 taxonomy: jazz
 ---

@@ -1,6 +1,6 @@
 ---
 title: Book-review
 layout: tag
-permalink: /tags/book-review
+permalink: /tag/book-review
 taxonomy: book-review
 ---

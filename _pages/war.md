@@ -1,6 +1,6 @@
 ---
 title: War
 layout: tag
-permalink: /tags/war
+permalink: /tag/war
 taxonomy: war
 ---

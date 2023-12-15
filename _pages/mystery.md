@@ -1,6 +1,6 @@
 ---
 title: Mystery
 layout: tag
-permalink: /tags/mystery
+permalink: /tag/mystery
 taxonomy: mystery
 ---
