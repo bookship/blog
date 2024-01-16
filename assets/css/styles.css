@@ -123,6 +123,7 @@ img, .img-keep-in-check {
   /* min-height: calc(1.55 * 11rem);
   height: calc(1.55 * 11rem); */
   background-size: cover;
+  border-right: 1px solid #dddddd;
 }
 
 .card-cover img {
