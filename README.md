@@ -6,4 +6,4 @@ via: [**Use this template**](https://github.com/mmistakes/mm-github-pages-starte
 
 ## Find us
 
-The blog can be found at: [Bookship Blog](blog.bookshipapp.com)
+The blog can be found at: [Bookship Blog](https://blog.bookshipapp.com)
