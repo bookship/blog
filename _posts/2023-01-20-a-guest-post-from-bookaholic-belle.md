@@ -11,7 +11,7 @@ coverImage: "BookaholicBelleExport.jpg"
 
 Here at Bookship, we love book bloggers. They spend so much time and energy writing about their book discoveries, helping all of us find better books to read! We're happy to introduce quality book bloggers to our audience!
 
-Today we welcome Bookaholic Belle. You can find her at her website, [https://bookaholicbeller.com/](https://bookaholicbeller.com/), or on [Instagram here](https://www.instagram.com/bookaholicbelle/). She is also included in our directory of book sites on our sister projects The Hawaii Project and the TBR app, where you can find her in the News section! Read on where she introduces herself and her reading!
+Today we welcome Bookaholic Belle. You can find her on [Instagram here](https://www.instagram.com/bookaholicbelle/). She is also included in our directory of book sites on our sister projects The Hawaii Project and the TBR app, where you can find her in the News section! Read on where she introduces herself and her reading!
 
 ![]({{ site.url }}{{ site.baseurl }}/assets/images/BookaholicBelleExport.jpg)
 
