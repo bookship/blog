@@ -60,13 +60,6 @@ New year, new book recommendations! These are some great books from authors in o
 
 ----
 
-Thank you again, and happy reading!
-
-Mark  
-mark@thehawaiiproject.com
-
-P.S. Don't want these newsletters in future? Unsubscribe [here](https://www.bookshipapp.com/#/newsletterUnsubscribe/%recipient.USERKEY%).
-
 _Want a fast, elegant way to manage your reading list? Check out [our TBR app.](https://tbrapp.co)_
 
 

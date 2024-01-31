@@ -1,10 +1,10 @@
 ---
 layout: single
-title:  "Welcome to Terese Svoboda!"
-date: "2024-02-1"
+title:  "Welcome to Terese Svoboda"
+date: "2024-01-31"
 categories: 
   - "bookship"
-#coverImage: "roxyandcoco.jpg"
+#coverImage: "TBRBookmarker1.png"
 teaser: "{{ site.url }}{{ site.baseurl }}/assets/images/roxyandcoco.jpg"
 ---
 
@@ -33,7 +33,10 @@ It's hard for me to read books for fun-- Alice Sadie Celine, an LA novel about a
 
 {% include card.html
    title="The Long Swim"
-   description="Stories by Terese Svoboda"
+   description="A runaway circus lion haunts a small town where two
+   lovers risk more than their respective marriages. A junket to Cuba
+   and an ambassador’s dalliance with a niece hide dark secrets and
+   political revolution. And more..."
    link="https://www.thehawaiiproject.com/book/The-Long-Swim-Stories--by--Terese-Svoboda--653894"
    image="https://m.media-amazon.com/images/I/71Rkst0TVBL.jpg"
 %}
